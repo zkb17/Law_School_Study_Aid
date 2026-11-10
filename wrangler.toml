@@ -1,0 +1,13 @@
+name = "law-study-hub-ai"
+main = "worker.js"
+compatibility_date = "2026-11-09"
+
+[vars]
+# Change to the EXACT origin of your GitHub Pages site, no trailing slash.
+# For https://USERNAME.github.io/REPO/ the origin is https://USERNAME.github.io
+ALLOWED_ORIGIN = "https://YOUR-USERNAME.github.io"
+OPENAI_MODEL = "gpt-4.1-mini"
+
+# Never store OPENAI_API_KEY or STUDY_ACCESS_TOKEN in this file.
+# Set them with: npx wrangler secret put OPENAI_API_KEY
+#                 npx wrangler secret put STUDY_ACCESS_TOKEN
