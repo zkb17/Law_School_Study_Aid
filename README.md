@@ -7,7 +7,7 @@ A GitHub Pages–ready, local-first law school **study** dashboard. It provides 
 ## What's included in this beta
 
 - **70** selectable law school subjects, based on common upper-level topics and Nebraska Law's broad elective curriculum. Not all are required in 2L.
-- **104** original starter multiple-choice questions, with a reason for every answer choice.
+- **804** built-in multiple-choice questions: the original 104 plus **700 newly authored, doctrine-focused questions (10 supplemental per subject)**. Each has four legally real choices and per-choice feedback.
 - **128** built-in recall/flashcards, including rules, definitions, and elements.
 - **12** multi-select issue-spotting hypotheticals.
 - Subject and difficulty filters, timed sessions, optional weak-topic weighting, immediate grading.
@@ -16,7 +16,16 @@ A GitHub Pages–ready, local-first law school **study** dashboard. It provides 
 - IndexedDB storage for study state and source text, plus export/import JSON backups.
 - Optional server-side AI question generation (requires **separate** Cloudflare Worker setup and an API key; it is not enabled by default).
 
-**Important:** The question bank is a curated *starter*, not a 100–200-question-per-course comprehensive commercial resource. Smaller electives usually have one entry-level MCQ and one memory card. Uploaded material and future expansions can add depth. Generated content is not automatically legally verified.
+**Important:** The 700 additions are **independently authored doctrine-identification/application prompts**, not copied commercial exam items. They are not faculty-reviewed, bar-certified, or equivalent to 700 full-length essay-style hypotheticals. Their wrong answers are real competing concepts from the same course, and each explanation says what that alternative addresses. The app links to governing statutes/rules when identifiable and otherwise to an authoritative research starting point; links should not be mistaken for verified pinpoint legal support. Jurisdiction, statute versions, and legal developments can differ.
+
+**Expanded study content files:**
+- `expanded-bank.js` loads 700 questions directly into the app (no setup/API necessary).
+- `expanded-question-bank.json` contains all 700 new records in portable structured form.
+- `expanded-question-bank.csv` makes the entire new bank reviewable in spreadsheet software.
+- `concepts.txt` holds 700 authored topic/problem/citation seeds; `build_bank.py` rebuilds the JS/JSON/CSV consistently.
+- Existing local study progress and IDs from the previous 104 questions remain intact; the expansion adds new IDs without changing old ones.
+
+**Quality checks performed:** per-subject minimum of 10 new questions, unique IDs/stems, four distinct choices, exactly one keyed answer, one feedback explanation per choice, citation text, HTTPS reference links, course-ID matching, application script parse tests and browser interaction tests. These are mechanical checks plus a manual spot review, **not independent expert verification of every legal answer**.
 
 ## Try it locally
 
@@ -27,7 +36,7 @@ The core study app and TXT/Markdown/pasted-note imports need no network. To read
 ## Host with GitHub Pages — public frontend
 
 1. Create a new GitHub repository (e.g., `law-study-hub`).
-2. Upload all of the **root-level site files** (`index.html`, `styles.css`, `app.js`, `data.js`, `cards.js`, `favicon.svg`, and this README). Uploading the optional worker folder is fine; GitHub Pages does not execute it.
+2. Upload all of the **root-level site files** (`index.html`, `styles.css`, `app.js`, `data.js`, `cards.js`, `expanded-bank.js`, `favicon.svg`, and this README). Uploading the optional worker folder is fine; GitHub Pages does not execute it.
 3. In the GitHub repository, open **Settings → Pages**. Under **Build and deployment → Source**, choose **Deploy from a branch**. Select `main` and `/(root)`, then save.
 4. Once published, open `https://YOUR-USERNAME.github.io/law-study-hub/` (replace username and repo name as appropriate).
 5. Save this URL as a bookmark. Data is stored **on that browser/device**. The same URL on a different device does **not** share progress.
@@ -66,7 +75,12 @@ The app uses **IndexedDB** if available and falls back to localStorage for light
 | `index.html` | Site entry point |
 | `styles.css` | Responsive dashboard UI |
 | `app.js` | Interactive application, storage and study modes |
-| `data.js` | Question bank and subject catalog |
+| `data.js` | Original 104 questions and subject catalog |
+| `expanded-bank.js` | New 700-question dataset loaded into the app |
+| `expanded-question-bank.json` | Portable data export of the 700 questions |
+| `expanded-question-bank.csv` | Spreadsheet review of question text, answers, feedback and references |
+| `QUESTION_BANK_COVERAGE.md` | Course-by-course question counts and quality-method notes |
+| `concepts.txt` / `build_bank.py` | Editable authored seeds and reproducible generation script |
 | `cards.js` | Flashcards and issue-spotting problems |
 | `favicon.svg` | App icon |
 | `optional-ai-worker/` | Optional Cloudflare Worker for AI generation |

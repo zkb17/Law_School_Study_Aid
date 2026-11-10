@@ -1,0 +1,772 @@
+# New independently authored concept-identification questions. Columns: concept | distinguishing scenario/definition | authority.
+# Each course has exactly ten prompts; incorrect answer choices are competing real doctrines from the same subject.
+## Administrative Law
+Legislative rule | An agency imposes binding new obligations on regulated firms; the APA generally calls for notice and an opportunity to comment before adoption. | 5 U.S.C. § 553
+Interpretive rule | An agency explains its existing understanding of a statute without itself creating an independently binding new obligation. | 5 U.S.C. § 553(b)(A)
+Policy statement | An agency announces how it presently expects to exercise enforcement discretion while retaining genuine freedom to depart. | 5 U.S.C. § 553(b)(A)
+Formal adjudication | A statute requires an agency decision on the record after an opportunity for an agency hearing. | 5 U.S.C. §§ 554, 556–557
+Informal adjudication | An agency issues an individual decision without a statutory requirement for a trial-type on-the-record hearing. | 5 U.S.C. §§ 555, 706
+Final agency action | A permit denial marks the consummation of an agency process and directly fixes legal consequences for the applicant. | Bennett v. Spear; 5 U.S.C. § 704
+Exhaustion | A claimant must ordinarily complete applicable agency review steps before seeking court review, unless a recognized exception applies. | 5 U.S.C. § 704; Darby v. Cisneros
+Arbitrary-and-capricious review | A court asks whether an agency considered key evidence and explained a rational connection between facts and choice. | 5 U.S.C. § 706(2)(A)
+Substantial-evidence review | A court examines a formal agency factual determination to see whether the whole record contains adequate relevant support. | 5 U.S.C. § 706(2)(E)
+Independent statutory interpretation | A reviewing court decides the best reading of an agency-administered statute itself rather than deferring merely because text is ambiguous. | Loper Bright Enterprises v. Raimondo (2024)
+## Evidence
+Hearsay definition | A party offers an assertion made outside the present testimony specifically to establish the truth of what was asserted. | FRE 801(c)
+Nontruth use | A witness recounts a warning only to show that a listener received notice, not that the warned-of condition existed. | FRE 801(c)
+Opposing-party statement | A party's own statement is offered against that party and qualifies as an exclusion from hearsay under the federal rule. | FRE 801(d)(2)(A)
+Present-sense impression | A speaker describes an event while perceiving it or immediately thereafter without material delay. | FRE 803(1)
+Excited utterance | A person describes a startling event while still under the stress it caused. | FRE 803(2)
+Then-existing mental state | A speaker says 'I intend to travel tomorrow,' offered to prove present intent rather than memory of a past event. | FRE 803(3)
+Business-records exception | A routinely maintained entry made near the event by someone with knowledge is authenticated through a qualified custodian. | FRE 803(6)
+Recorded recollection | A witness cannot recall details adequately but previously adopted an accurate record while events were fresh; it may generally be read into evidence. | FRE 803(5)
+Unfair-prejudice balancing | Relevant proof is excluded only when its value is substantially outweighed by a specified danger such as unfair prejudice. | FRE 403
+Prior-inconsistent-statement impeachment | A witness says one thing at trial but a party uses the witness's prior contrary statement to challenge credibility, subject to governing conditions. | FRE 613
+## Business Associations
+Actual authority | The principal expressly or impliedly empowers an agent to undertake a transaction on the principal's behalf. | Restatement (Third) of Agency § 2.01
+Apparent authority | The principal's manifestations cause a third party reasonably to believe that an agent may act for the principal. | Restatement (Third) of Agency § 2.03
+Ratification | After learning material facts, a principal affirmatively adopts an act previously done without authorization on its behalf. | Restatement (Third) of Agency § 4.01
+Partnership formation | Two people carry on a business as co-owners for profit even though they never file formal incorporation documents. | Revised Uniform Partnership Act § 202
+Partnership fiduciary loyalty | One partner secretly appropriates a partnership opportunity rather than accounting to the firm. | Revised Uniform Partnership Act § 404
+Limited liability | A corporation's ordinary creditors cannot collect corporate debts directly from a shareholder merely because of share ownership. | General corporate law
+Piercing the corporate veil | A court considers disregarding the entity where misuse, domination, and injustice justify an exceptional remedy under state law. | State corporate law varies
+Derivative suit | An investor sues on behalf of the corporation for injury to the entity rather than for a distinct personal injury. | State corporate law; Fed. R. Civ. P. 23.1
+Duty of care | Directors face scrutiny for failing to become reasonably informed before making a major business decision. | General corporate fiduciary law
+Duty of loyalty | An interested director puts personal interests ahead of the corporation in a conflicted transaction. | General corporate fiduciary law
+## Legal Profession
+Competence | A lawyer must bring the legal knowledge, skill, thoroughness, and preparation reasonably necessary for a representation. | ABA Model Rule 1.1
+Diligence | A lawyer neglects an agreed filing despite having sufficient legal knowledge and available resources. | ABA Model Rule 1.3
+Client decision authority | A represented person, not counsel, decides whether to accept a settlement offer after receiving appropriate advice. | ABA Model Rule 1.2(a)
+Communication | A lawyer fails to keep a client reasonably informed about material developments in the matter. | ABA Model Rule 1.4
+Confidentiality | A lawyer discloses information relating to a representation outside an exception, even though no courtroom privilege question exists. | ABA Model Rule 1.6
+Concurrent conflict | One attorney represents two clients whose interests in a transaction are directly adverse. | ABA Model Rule 1.7
+Former-client conflict | A lawyer acts against a former client in the same or substantially related matter involving materially adverse interests. | ABA Model Rule 1.9
+Safekeeping property | An attorney deposits a client's settlement funds into the firm's operating account rather than maintaining required separation. | ABA Model Rule 1.15
+Candor to tribunal | Counsel knowingly presents false material evidence and faces duties to take reasonable remedial measures. | ABA Model Rule 3.3
+Unauthorized practice | A lawyer assists someone not authorized to practice in providing legal services in violation of governing restrictions. | ABA Model Rule 5.5
+## Criminal Procedure
+Reasonable suspicion stop | Police briefly detain a person based on specific articulable facts indicating possible crime, not just a hunch. | Terry v. Ohio
+Frisk for weapons | During a lawful stop an officer reasonably suspects the person is armed and dangerous and conducts a limited protective pat-down. | Terry v. Ohio
+Probable cause arrest | Facts known to officers establish a fair probability that the person committed an offense, permitting an arrest subject to other rules. | Beck v. Ohio
+Search-incident-to-arrest | Officers search an arrestee and the immediately accessible area to address weapons and evidence risks under applicable limits. | Chimel v. California
+Automobile exception | With probable cause that a vehicle contains evidence or contraband, police generally may search relevant areas without first securing a warrant. | Carroll v. United States
+Plain-view seizure | Officers lawfully present perceive immediately apparent contraband and have lawful access to seize it. | Horton v. California
+Exigent circumstances | Officers confront an emergency such as imminent destruction of evidence that may excuse the usual warrant requirement. | Kentucky v. King
+Miranda custody | A reasonable person subjected to formal arrest or a comparable restraint would not feel free to terminate and leave questioning. | Miranda v. Arizona; Thompson v. Keohane
+Miranda interrogation | Police words or acts are reasonably likely to elicit an incriminating response beyond routine booking questions. | Rhode Island v. Innis
+Inevitable discovery | Unconstitutionally obtained evidence may still be admitted when lawful methods would ultimately have found it. | Nix v. Williams
+## Constitutional Law II
+Strict scrutiny | A governmental racial classification generally must be narrowly tailored to serve a compelling governmental interest. | Equal Protection Clause; Adarand Constructors v. Peña
+Intermediate scrutiny | A sex-based governmental classification generally requires an exceedingly persuasive justification and substantial relation to important objectives. | United States v. Virginia
+Rational-basis review | An ordinary economic classification generally survives if rationally related to a legitimate government purpose. | Williamson v. Lee Optical
+Facial discrimination | A statute expressly treats people differently because of a protected trait rather than merely creating unequal effects. | Equal Protection doctrine
+Discriminatory purpose | A facially neutral rule has unequal effects, but equal-protection liability requires proof of discriminatory intent in the usual case. | Washington v. Davis
+Procedural due process | Government deprives someone of a protected entitlement and must provide constitutionally adequate notice and opportunity to be heard. | Mathews v. Eldridge
+Substantive due process | A claimant argues the Constitution protects a fundamental liberty interest from certain government interference irrespective of procedure. | Due Process Clause
+State action | A constitutional equality claim requires conduct attributable to government rather than purely private decisions, subject to exceptions. | Civil Rights Cases; Lugar v. Edmondson Oil
+Selective incorporation | A fundamental Bill of Rights guarantee applies against a state through the Fourteenth Amendment. | McDonald v. Chicago
+Privileges or immunities | A claimant invokes the Fourteenth Amendment clause concerning rights of national citizenship rather than general equal protection. | U.S. Const. amend. XIV, § 1
+## Federal Courts
+Article III standing | A claimant needs injury in fact, traceability to the challenged conduct, and likely redressability. | Lujan v. Defenders of Wildlife
+Ripeness | A dispute is premature because the threatened harm remains contingent or has not sufficiently developed. | Abbott Laboratories v. Gardner
+Mootness | Events after filing eliminate the live controversy, potentially subject to recognized exceptions. | Already, LLC v. Nike
+Political question doctrine | A court considers whether a constitutional issue is committed to a political branch or lacks manageable judicial standards. | Baker v. Carr
+Federal-question jurisdiction | A properly pleaded claim arises under federal law rather than relying only on an anticipated federal defense. | 28 U.S.C. § 1331; Louisville & Nashville R.R. v. Mottley
+Diversity jurisdiction | Civil litigation involves completely diverse parties and an amount exceeding $75,000 under the ordinary diversity statute. | 28 U.S.C. § 1332
+Supplemental jurisdiction | A federal court may hear a related state claim forming part of the same Article III case or controversy. | 28 U.S.C. § 1367
+Eleventh Amendment immunity | A private litigant ordinarily cannot sue a nonconsenting state for damages in federal court absent a valid exception. | U.S. Const. amend. XI; Hans v. Louisiana
+Younger abstention | A federal court generally refrains from interfering with certain ongoing state proceedings under narrowly defined conditions. | Younger v. Harris
+Rooker-Feldman doctrine | A losing state-court party asks a lower federal court essentially to review and reject a final state-court judgment. | Exxon Mobil Corp. v. Saudi Basic Industries
+## Remedies
+Compensatory damages | A plaintiff seeks money approximating losses actually caused by a defendant's civil wrong. | General remedies law
+Consequential damages | A buyer seeks foreseeable downstream losses caused by breach rather than merely the immediate value difference. | Hadley v. Baxendale; UCC § 2-715
+Nominal damages | A legal right was violated, but the plaintiff proves no compensable monetary loss and seeks a token award. | General common-law remedies
+Punitive damages | An award seeks to punish and deter particularly blameworthy wrongdoing beyond compensation, subject to limits. | State tort law; BMW v. Gore
+Restitution | A court orders return of a benefit unjustly retained rather than measuring the injured party's full expectancy. | Restatement (Third) of Restitution
+Rescission | A court unwinds a transaction and restores parties toward their precontract positions based on a recognized ground. | Equity and contract rescission
+Specific performance | A buyer asks a court to require transfer of a unique parcel instead of accepting money damages. | Equitable remedies; Restatement (Second) of Contracts § 357
+Preliminary injunction | A court orders provisional conduct before final judgment after considering likelihood of success, harm, equities, and public interest. | Winter v. NRDC
+Permanent injunction | Following merits success a plaintiff seeks forward-looking equitable relief where legal remedies are inadequate. | eBay Inc. v. MercExchange
+Declaratory judgment | A party asks a court to determine legal rights without necessarily awarding damages or coercive relief. | 28 U.S.C. § 2201
+## Wills & Trusts
+Testamentary capacity | A testator must generally understand the nature of making a will, property, and natural objects of bounty. | State probate law
+Undue influence | A beneficiary exercises coercive influence that overcomes the testator's free agency in preparing a will. | State probate law
+Will execution | A written testamentary instrument must satisfy the jurisdiction's required signing and witnessing formalities. | State probate law
+Revocation by act | A testator intentionally destroys or cancels a will with required intent and compliance with state law. | State probate law
+Intestacy | A decedent dies without an effective will governing part of the estate, so default succession statutes control. | State intestacy statutes
+Lapse | A named beneficiary dies before the testator, raising whether the gift fails or a statutory substitute takes its place. | State probate law
+Trust creation | A settlor identifies trust property, beneficiaries, and duties and manifests intent to create an enforceable trust. | Uniform Trust Code § 402
+Spendthrift clause | A trust restricts a beneficiary's voluntary and involuntary transfer of a beneficial interest, subject to exceptions. | Uniform Trust Code §§ 502–503
+Prudent investor rule | A trustee must invest and manage assets with appropriate care, risk-return analysis, and diversification principles. | Uniform Prudent Investor Act
+Cy pres | A charitable trust purpose becomes impracticable and a court redirects assets toward a sufficiently similar charitable aim. | Uniform Trust Code § 413
+## Family Law
+Marriage licensing | A couple must comply with applicable state eligibility and license requirements to enter a legally recognized marriage. | State domestic-relations law
+Premarital agreement | Prospective spouses contract about property or support rights before marriage, subject to validity and public policy limits. | Uniform Premarital Agreement Act
+Marital property | A divorce court classifies assets and debts acquired during the marriage before distributing them under state rules. | State equitable-distribution law
+Separate property | An asset received by one spouse as a gift or inheritance may retain individual classification absent transmutation. | State marital-property law
+Equitable distribution | A divorce court allocates marital property fairly under statutory criteria, not necessarily in equal halves. | State domestic-relations law
+Spousal maintenance | Following dissolution a court evaluates factors affecting whether and for how long one spouse should provide support to the other. | State alimony law
+Child support guidelines | A court generally calculates monetary support using income and statutory guidelines subject to appropriate adjustments. | State child-support law
+Best interests of the child | A custody dispute is resolved primarily by evaluating the child's welfare rather than automatically favoring either parent. | State custody law
+Custody modification | A parent seeking to change an existing order must meet the state's threshold for changed circumstances and child welfare. | State custody law
+Parentage determination | A court determines legal parent-child status affecting support, custody, and inheritance rights. | Uniform Parentage Act; state law
+## Individual Income Tax
+Gross income | Compensation for services generally is included in income unless a specific exclusion applies. | 26 U.S.C. § 61
+Realization | Appreciation in an asset's value generally does not produce taxable gain solely because market price rose without any disposition or other qualifying event. | 26 U.S.C. § 1001; realization principles
+Adjusted basis | Gain on sale depends partly on the taxpayer's tax investment in property, adjusted for relevant capital events. | 26 U.S.C. §§ 1011–1012
+Amount realized | The proceeds of a property disposition include money received and fair market value of other property received. | 26 U.S.C. § 1001(b)
+Ordinary and necessary expense | A qualifying expense paid or incurred in carrying on a trade or business may be deductible subject to limitations. | 26 U.S.C. § 162
+Capital expenditure | Money spent acquiring or improving a long-lived asset generally must be capitalized rather than immediately deducted. | 26 U.S.C. § 263
+Depreciation | A business recovers qualifying capital cost of wasting tangible property over the statutory recovery period. | 26 U.S.C. §§ 167–168
+Gift exclusion | The value of property acquired by gift is generally excluded from the recipient's gross income, subject to special rules. | 26 U.S.C. § 102(a)
+Capital gains classification | Disposition of a qualifying capital asset can generate a capital gain or loss rather than ordinary income treatment. | 26 U.S.C. §§ 1221–1222
+Like-kind exchange | A qualifying exchange of real property held for investment or productive use can defer gain under strict statutory conditions. | 26 U.S.C. § 1031
+## Secured Transactions
+Security agreement | Debtor authentication of a record reasonably describing collateral can satisfy a core element for an enforceable security interest. | UCC § 9-203
+Attachment | Value, debtor rights in collateral, and an enforceable security agreement or alternative method bring a security interest into effect. | UCC § 9-203
+Perfection by filing | A creditor files an effective financing statement in the appropriate office to perfect many nonpossessory interests. | UCC §§ 9-310, 9-502
+Perfection by possession | A secured party perfects certain collateral interests by physically possessing the collateral under statutory conditions. | UCC § 9-313
+Purchase-money security interest | Credit enables a debtor to acquire particular goods and is secured by those goods, potentially qualifying for special priority. | UCC § 9-103
+After-acquired property | A security agreement extends to certain collateral acquired by the debtor after the initial transaction. | UCC § 9-204
+Proceeds | Collateral is sold and the secured party's interest may continue in identifiable value received from its disposition. | UCC § 9-315
+First-to-file-or-perfect rule | Competing perfected interests in the same collateral generally rank by earliest filing or perfection, subject to special priorities. | UCC § 9-322
+Buyer in ordinary course | A qualifying retail purchaser may take goods free of a security interest created by the seller notwithstanding the interest's perfection. | UCC § 9-320(a)
+Disposition after default | After default a secured party sells collateral subject to notification and commercial-reasonableness requirements. | UCC §§ 9-610, 9-611
+## Bankruptcy
+Automatic stay | Filing a bankruptcy petition ordinarily halts collection suits and many enforcement actions against the debtor or estate property. | 11 U.S.C. § 362
+Property of estate | Most legal and equitable interests of the debtor at commencement enter the bankruptcy estate, subject to exceptions. | 11 U.S.C. § 541
+Chapter 7 liquidation | A trustee generally collects and liquidates nonexempt assets to pay creditors in an individual or business liquidation case. | 11 U.S.C. ch. 7
+Chapter 11 reorganization | A debtor typically proposes a plan to restructure obligations while continuing operations subject to court oversight. | 11 U.S.C. ch. 11
+Chapter 13 repayment | An eligible individual with regular income proposes a multi-year plan to repay creditors from future earnings. | 11 U.S.C. ch. 13
+Discharge | A qualifying bankruptcy order releases the debtor from personal liability on many prepetition debts, subject to exceptions. | 11 U.S.C. § 727
+Nondischargeability | Certain debts, including specified fraud obligations and some educational loans, may remain enforceable despite bankruptcy. | 11 U.S.C. § 523
+Preference avoidance | The trustee may recover certain transfers shortly before bankruptcy that favored a creditor on antecedent debt. | 11 U.S.C. § 547
+Fraudulent transfer | The estate may avoid qualifying transfers made with intent to hinder creditors or for inadequate value under statutory conditions. | 11 U.S.C. § 548
+Executory contract assumption | A bankruptcy trustee or debtor in possession may assume or reject certain material unperformed contracts subject to statutory limits. | 11 U.S.C. § 365
+## Conflict of Laws
+Lex loci delicti | A traditional tort conflicts rule selects the law of the place where the injury-producing wrong occurred. | Restatement (First) Conflict of Laws
+Most-significant-relationship test | A court evaluates relevant contacts and policy interests rather than automatically applying the location of an injury. | Restatement (Second) Conflict of Laws § 145
+Governmental interest analysis | A court examines whether competing states genuinely seek application of their laws to the dispute. | Conflict-of-laws doctrine
+False conflict | Only one involved jurisdiction has a real policy interest in applying its rule to the particular facts. | Governmental-interest analysis
+True conflict | Two states each have genuine competing interests in applying their differing legal rules. | Governmental-interest analysis
+Dépeçage | A court may use laws of different jurisdictions for distinct issues within a single dispute. | Restatement (Second) Conflict of Laws
+Renvoi | A choice-of-law reference potentially points to a foreign jurisdiction's whole law, including its conflict rules. | Conflict-of-laws doctrine
+Public-policy exception | A court may decline to apply otherwise selected foreign law that violates a sufficiently fundamental forum policy. | Restatement (Second) Conflict of Laws § 90
+Contract choice-of-law clause | Contracting parties select governing law, generally respected subject to significant state-policy and nexus limitations. | Restatement (Second) Conflict of Laws § 187
+Constitutional limits on choice of law | Due process and full faith and credit constrain applying a state's law without sufficient contacts or interests. | Allstate Insurance Co. v. Hague
+## First Amendment
+Content-based restriction | A city prohibits speech because of the message conveyed, generally triggering demanding constitutional review. | Reed v. Town of Gilbert
+Content-neutral time-place-manner rule | A public forum regulation governs the hour and volume of demonstrations without regard to viewpoint or subject matter. | Ward v. Rock Against Racism
+Viewpoint discrimination | Officials allow criticism of one position but bar its opposing viewpoint in an otherwise open speech setting. | Rosenberger v. University of Virginia
+Prior restraint | Government requires official permission before a publisher may print a particular political report. | Near v. Minnesota; New York Times Co. v. United States
+Incitement | Government punishes advocacy only if directed to and likely to produce imminent lawless action under the applicable test. | Brandenburg v. Ohio
+True threats | A speaker communicates a serious expression of intended unlawful violence, with the constitutionally required mental state. | Counterman v. Colorado
+Commercial speech | Advertising for a lawful product that is not misleading receives qualified constitutional protection under an intermediate framework. | Central Hudson Gas v. PSC
+Expressive association | A private organization claims a membership rule is essential to conveying its shared message. | Boy Scouts of America v. Dale
+Free Exercise Clause | Government burdens religious practice, raising whether a neutral generally applicable rule or a religion-targeted restriction applies. | Employment Division v. Smith; Church of Lukumi Babalu Aye
+Establishment Clause | A challenge asserts state involvement with religion violates constitutional restrictions assessed with historical practices and precedents. | Kennedy v. Bremerton School District
+## Civil Rights Litigation
+Section 1983 state action | An official acting under color of state law allegedly deprives a person of a federal constitutional right. | 42 U.S.C. § 1983
+Qualified immunity | A government official claims damages immunity because the alleged constitutional violation was not clearly established at the relevant time. | Harlow v. Fitzgerald
+Municipal Monell liability | A plaintiff must connect constitutional injury to a municipality's policy or custom, not simply an employee's conduct. | Monell v. Department of Social Services
+Supervisory liability | A plaintiff sues a supervisor but must establish that person's own legally sufficient involvement rather than automatic vicarious liability. | Ashcroft v. Iqbal
+Absolute prosecutorial immunity | A prosecutor faces civil damages for conduct intimately associated with initiating or presenting the state's case. | Imbler v. Pachtman
+Color of law | A public official misuses authority made possible because of the official position while violating federal rights. | West v. Atkins
+Section 1988 attorney fees | A prevailing party in qualifying civil-rights litigation seeks discretionary reasonable attorney fees under the fee-shifting statute. | 42 U.S.C. § 1988
+Ex parte Young remedy | A plaintiff seeks prospective relief against a state officer to stop an ongoing federal-law violation. | Ex parte Young
+Bivens remedy limits | A federal official is sued for constitutional damages, but the court asks whether an implied remedy exists in the specific context. | Egbert v. Boule
+Section 1985 conspiracy | A litigant alleges a qualifying conspiracy to interfere with federally protected civil rights under a distinct federal statute. | 42 U.S.C. § 1985
+## Employment Discrimination
+Disparate treatment | An employer intentionally denies a promotion because of a protected characteristic. | Title VII; 42 U.S.C. § 2000e-2
+Disparate impact | A neutral selection practice disproportionately excludes a protected group and may require business-necessity justification. | Title VII; 42 U.S.C. § 2000e-2(k)
+McDonnell Douglas framework | Without direct evidence a litigant uses an indirect burden-shifting framework to assess evidence of discriminatory intent. | McDonnell Douglas Corp. v. Green
+Hostile work environment | Repeated discriminatory harassment is sufficiently severe or pervasive to alter employment conditions under governing standards. | Harris v. Forklift Systems
+Quid pro quo harassment | A supervisor conditions a job benefit on submission to unwelcome sexual advances. | Title VII harassment doctrine
+Retaliation | An employer takes materially adverse action because an employee engaged in protected opposition or participation. | Burlington Northern v. White
+Reasonable accommodation under ADA | A qualified employee requests an effective workplace adjustment for a disability absent undue hardship. | 42 U.S.C. § 12112(b)(5)(A)
+Undue hardship | An employer shows legally significant operational burdens that can excuse a requested accommodation under the governing statute. | ADA; Groff v. DeJoy (religion distinct standard)
+Equal Pay Act | Workers of different sexes performing substantially equal jobs at the same establishment receive unequal wages without a recognized defense. | 29 U.S.C. § 206(d)
+Age discrimination | An older worker asserts adverse action because of age and generally must establish but-for causation under the federal statute. | ADEA; Gross v. FBL Financial Services
+## Election Law
+One person one vote | Legislative districts have substantially unequal populations, raising representational equality concerns. | Reynolds v. Sims
+Voting Rights Act Section 2 | An election system is challenged for discriminatory results affecting minority voters under statutory conditions. | 52 U.S.C. § 10301; Thornburg v. Gingles
+Racial gerrymandering | Race predominates in drawing district lines without a sufficient constitutionally compelling justification. | Shaw v. Reno; Cooper v. Harris
+Partisan gerrymandering federal limits | A federal claim challenges excessively partisan maps as unconstitutional, but federal courts lack a manageable standard for that claim. | Rucho v. Common Cause
+Ballot-access restrictions | A state imposes signature and filing requirements on candidates, requiring scrutiny of burdens and regulatory interests. | Anderson v. Celebrezze; Burdick v. Takushi
+Poll tax ban | A state conditions voting in federal elections on payment of a tax or fee. | U.S. Const. amend. XXIV
+Voting age protection | A state attempts to deny the vote to otherwise qualified adults solely because they are 18 to 20 years old. | U.S. Const. amend. XXVI
+Campaign contribution limits | Government regulates money donated to candidates, implicating expressive association and anticorruption interests. | Buckley v. Valeo
+Independent political expenditures | Government limits uncoordinated election advocacy spending based on speaker identity or amount. | Citizens United v. FEC
+Election administration preemption | A state election rule conflicts with a valid congressional enactment governing federal elections. | U.S. Const. art. I, § 4; Elections Clause
+## Prison Law
+Eighth Amendment deliberate indifference | Prison officials knowingly disregard a substantial risk of serious harm to an incarcerated person. | Farmer v. Brennan
+Serious medical need | An incarcerated person alleges officials failed to address a medically serious condition with constitutionally culpable disregard. | Estelle v. Gamble
+Excessive force | A correctional officer uses force maliciously to cause harm rather than in a good-faith effort to maintain discipline. | Hudson v. McMillian
+Prisoner speech regulation | A regulation burdening incarcerated persons' constitutional rights is tested for reasonable relation to legitimate penological interests. | Turner v. Safley
+Procedural disciplinary process | A disciplinary proceeding threatens loss of earned good-time credits, calling for notice and minimal hearing safeguards. | Wolff v. McDonnell
+Parole liberty interest | A person claims entitlement to release procedures because state law creates a protected expectation of parole. | Greenholtz v. Inmates
+Prison Litigation Reform Act exhaustion | An incarcerated plaintiff must exhaust available administrative remedies before bringing a covered federal prison-conditions suit. | 42 U.S.C. § 1997e(a)
+Physical-injury limitation | A prisoner seeks damages for mental or emotional injury without the required accompanying physical injury or qualifying sexual act. | 42 U.S.C. § 1997e(e)
+Pretrial detainee protection | An unconvicted detainee challenges objectively unreasonable force under due process rather than the convicted-prisoner Eighth Amendment framework. | Kingsley v. Hendrickson
+Access to courts | Prison officials allegedly obstruct meaningful ability to pursue nonfrivolous legal claims, requiring actual injury in many cases. | Lewis v. Casey
+## Native American Law
+Tribal sovereignty | A federally recognized tribe exercises inherent powers of self-government subject to federal law. | Worcester v. Georgia; federal Indian law
+Congressional plenary power | Congress has broad constitutional authority over Indian affairs subject to constitutional constraints. | U.S. Const. art. I, § 8; United States v. Kagama
+Trust responsibility | The federal government may owe enforceable fiduciary-type duties where statutes or regulations create specific obligations. | United States v. Navajo Nation
+Tribal civil jurisdiction | A tribe seeks to regulate nonmember conduct on reservation lands under limited recognized exceptions and land-status rules. | Montana v. United States
+Indian country criminal jurisdiction | Determining prosecutorial authority turns on location, defendant and victim status, offense, and applicable federal statutes. | 18 U.S.C. §§ 1151–1153
+Major Crimes Act | A listed serious offense by an Indian in Indian country may fall within federal criminal jurisdiction. | 18 U.S.C. § 1153
+Indian Child Welfare Act | Child custody proceedings involving an Indian child trigger federal procedural and placement protections. | 25 U.S.C. §§ 1901–1963
+Treaty interpretation canon | Ambiguities in Indian treaties are generally construed as tribes would have understood them. | Minnesota v. Mille Lacs Band
+Tribal sovereign immunity | A tribe generally cannot be sued without a valid waiver or congressional abrogation. | Michigan v. Bay Mills Indian Community
+Reservation disestablishment | A state claims a reservation ceased to exist, requiring careful examination of congressional intent and boundaries. | McGirt v. Oklahoma
+## Constitutional History
+Judicial review origins | An early Supreme Court decision established the judiciary's role in declaring statutes unconstitutional in deciding a case. | Marbury v. Madison (1803)
+Federal supremacy | An early decision upheld implied national powers and denied a state's ability to tax a federal instrument. | McCulloch v. Maryland (1819)
+Commerce power expansion | A New Deal era Court sustained federal regulation of local wheat grown for personal consumption based on aggregate economic effect. | Wickard v. Filburn (1942)
+Slavery and citizenship decision | An infamous pre-Civil War ruling denied citizenship to Black Americans and restricted congressional slavery regulation. | Dred Scott v. Sandford (1857)
+Reconstruction Amendments | Constitutional changes abolished slavery, established national citizenship and equality guarantees, and protected voting from racial discrimination. | U.S. Const. amends. XIII–XV
+Separate but equal | A late nineteenth-century Court permitted racial segregation under an equality doctrine later repudiated. | Plessy v. Ferguson (1896)
+School desegregation | The Court held racial segregation in public schools inherently unequal under the Fourteenth Amendment. | Brown v. Board of Education (1954)
+Selective incorporation history | The Court gradually applied most Bill of Rights protections to state governments through Fourteenth Amendment due process. | Gitlow v. New York; later cases
+New Deal constitutional shift | The Court broadly accepted federal regulation of economic activity and moved away from aggressive liberty-of-contract review. | West Coast Hotel v. Parrish (1937)
+Originalism | A mode of constitutional interpretation emphasizes original public meaning at the time a constitutional provision was adopted. | Constitutional interpretation methodology
+## State & Local Government
+Home rule | A local government claims authority to govern local affairs based on a state constitutional or statutory grant. | State home-rule law
+Dillon's Rule | A municipality's power is generally confined to authority expressly granted or necessarily implied by the state legislature. | Dillon's Rule; state law
+State preemption | A city ordinance conflicts with state law or enters a field the state has reserved for statewide regulation. | State preemption doctrine
+Police power | A state enacts public health, safety, welfare, or morals regulation within its reserved general authority. | U.S. Const. amend. X; state constitutional law
+Zoning | A municipality divides land into districts regulating permissible uses and development intensity. | Village of Euclid v. Ambler Realty
+Special assessment | Owners specially benefited by a public improvement are charged to finance that improvement under governing law. | State local-finance law
+Public purpose limitation | A city proposes spending tax revenue for a purely private benefit, raising constitutional and statutory restrictions. | State constitutional finance law
+Municipal immunity | A local government invokes statutory or common-law limits on tort suits against it. | State tort claims law
+Annexation | A city seeks to incorporate adjacent unincorporated territory under state procedural and substantive requirements. | State annexation statutes
+Open-meetings requirement | A public body discusses official action behind closed doors without qualifying for a statutory exception. | State open-meetings laws
+## Statutory Interpretation
+Plain meaning | A court begins with the ordinary meaning of enacted text in its legal and linguistic context. | Textual interpretation principles
+Whole-act rule | A court reads an ambiguous provision in light of neighboring sections and the statute's structure. | Statutory interpretation canon
+Expressio unius | A statute enumerates some items, suggesting under suitable context that deliberately omitted alternatives are excluded. | Expressio unius est exclusio alterius
+Ejusdem generis | A general phrase following specific items is limited to things similar in kind, when context supports that reading. | Ejusdem generis canon
+Noscitur a sociis | The meaning of a word is informed by the words surrounding it. | Noscitur a sociis canon
+Rule against surplusage | An interpretation should ordinarily avoid rendering statutory words redundant or meaningless. | Surplusage canon
+Constitutional avoidance | A court prefers a fairly possible construction that avoids serious constitutional difficulties. | Constitutional avoidance doctrine
+Rule of lenity | A grievous unresolved ambiguity in a penal statute may be resolved in favor of the accused. | Rule of lenity
+Legislative history | A court examines committee reports and enactment context as extrinsic evidence of statutory purpose when relevant. | Statutory interpretation methodology
+Purposivism | An interpreter weighs an enactment's aims and the problem addressed in determining application to disputed facts. | Statutory interpretation methodology
+## Equality Before the Law
+Equal protection classification | Government groups individuals differently, prompting analysis of the classification and applicable level of scrutiny. | U.S. Const. amend. XIV
+Suspect classification | A governmental distinction using race generally triggers strict judicial scrutiny. | Adarand Constructors v. Peña
+Quasi-suspect classification | A sex-based classification generally receives intermediate scrutiny rather than minimal rational-basis review. | United States v. Virginia
+Facial neutrality | A law uses neutral words but has an unequal distributional impact across protected groups. | Washington v. Davis
+Discriminatory intent | Claimants must often show that official decisionmakers acted because of adverse effects on a protected group, not merely despite them. | Personnel Administrator v. Feeney
+Disparate impact statutory theory | A federal antidiscrimination statute can prohibit a neutral practice's discriminatory effects even without intent, subject to its elements. | Title VII; 42 U.S.C. § 2000e-2(k)
+Affirmative action scrutiny | A government race-conscious preference requires strict scrutiny even when intended to benefit historically disadvantaged groups. | Adarand; Students for Fair Admissions
+Fundamental-right equality | A classification affecting voting or another fundamental right can call for heightened constitutional review. | Harper v. Virginia Board of Elections
+Class-of-one theory | A person alleges intentionally irrational differential treatment from similarly situated individuals without membership in a protected class. | Village of Willowbrook v. Olech
+Equal protection remedy | A court finds unlawful unequal treatment and must determine a lawful way to remove the disparity without assuming one universal remedy. | Equal Protection Clause; remedial doctrine
+## Securities Regulation
+Materiality | A reasonable investor would regard omitted information as significantly altering the total mix available when making an investment decision. | TSC Industries v. Northway
+Rule 10b-5 scienter | A securities fraud claimant must establish a culpable mental state beyond mere negligence under the relevant antifraud theory. | 17 C.F.R. § 240.10b-5; Ernst & Ernst v. Hochfelder
+Reliance | A private securities fraud plaintiff must connect a material misrepresentation to an investment decision, subject to available presumptions. | Basic Inc. v. Levinson
+Loss causation | A private fraud plaintiff must connect a defendant's deception to the economic loss rather than merely a security's purchase price. | Dura Pharmaceuticals v. Broudo
+Insider trading | Trading on material nonpublic information in breach of a fiduciary or comparable duty may trigger securities antifraud liability. | Dirks v. SEC; United States v. O'Hagan
+Tippee liability | A recipient trades on inside information and liability depends on a qualifying breach by the tipper and required knowledge. | Dirks v. SEC
+Registration requirement | An issuer publicly offers securities absent an effective Securities Act registration or a valid exemption. | Securities Act of 1933 § 5
+Private offering exemption | An issuer seeks to sell securities without public registration under conditions for a qualifying nonpublic transaction. | Securities Act § 4(a)(2); Regulation D
+Prospectus liability | Investors claim a registration statement contained material misstatements or omissions, implicating statutory liability rules. | Securities Act §§ 11–12
+Short-swing profits | A statutory insider must disgorge qualifying profits from paired purchases and sales of issuer equity within six months. | Exchange Act § 16(b)
+## Corporate Finance
+Debt financing | A company borrows capital through a payment obligation rather than selling residual ownership. | Corporate finance principles
+Equity financing | A company raises capital by selling shares that convey ownership interests rather than a fixed repayment claim. | Corporate finance principles
+Preferred stock | A class of equity carries negotiated dividend or liquidation preferences ahead of common shares. | Corporate charter and securities law
+Common stock | A residual ownership interest usually bears upside and downside after higher-priority claims. | Corporate law
+Convertible security | A debt or preferred instrument includes a right to exchange for common equity upon specified terms. | Corporate finance instruments
+Dividend distribution | A board authorizes a payment of corporate assets to shareholders subject to solvency and statutory restrictions. | State corporate distributions law
+Capital structure | Analysts examine the corporation's mix of debt, preferred equity, and common equity financing. | Corporate finance principles
+Leverage | Borrowed financing can magnify equity returns as well as losses because payment obligations persist. | Corporate finance principles
+Weighted average cost of capital | Analysts estimate financing costs weighted by the proportion of different capital sources. | Corporate finance principles
+Discounted cash flow | An analyst values projected future cash flows using a discount rate reflecting timing and risk. | Corporate valuation principles
+## Mergers & Acquisitions
+Statutory merger | Two corporations combine through a legally prescribed transaction so one survives and succeeds to the other's assets and liabilities. | State corporation merger statutes
+Asset acquisition | A buyer purchases specified assets rather than necessarily acquiring the seller's equity or all liabilities. | State corporate transaction law
+Stock acquisition | A buyer obtains control by purchasing shares directly from stockholders or through a negotiated equity transaction. | Corporate transaction law
+Tender offer | A bidder offers shareholders a set price or consideration to tender their shares under federal regulatory requirements. | Williams Act; Exchange Act § 14(d)
+Proxy solicitation | Management requests shareholder voting authority subject to federal disclosure and solicitation rules. | Exchange Act § 14(a)
+Board fiduciary review | Directors must evaluate a takeover transaction under applicable care and loyalty duties and potentially enhanced standards. | Delaware fiduciary jurisprudence
+Revlon duties | Once a corporation enters a qualifying sale-of-control scenario, directors seek best value reasonably available for stockholders. | Revlon, Inc. v. MacAndrews & Forbes
+Unocal review | A target board's defensive response to a takeover threat faces enhanced scrutiny for reasonable threat and proportionality. | Unocal Corp. v. Mesa Petroleum
+Appraisal rights | A dissenting shareholder may demand judicial determination of fair value in a qualifying statutory transaction. | State appraisal statutes
+Hart-Scott-Rodino filing | Certain large acquisitions must be reported to antitrust agencies before closing if applicable thresholds are met. | Hart-Scott-Rodino Act, 15 U.S.C. § 18a
+## Business Planning
+Entity choice | Founders weigh liability, taxation, governance, capital needs, and transferability before selecting a form of business. | Business organizations principles
+Operating agreement | Members set governance and economic rights of a limited liability company through a contract permitted by state law. | State LLC acts
+Buy-sell agreement | Co-owners contract for ownership transfers when someone dies, exits, or triggers an agreed event. | Corporate planning contracts
+Vesting schedule | An equity award becomes earned or exercisable over time or upon milestones rather than all at once. | Equity compensation principles
+Founder intellectual-property assignment | A startup secures written transfer of rights in relevant inventions or creative work from contributors. | 35 U.S.C. § 261; IP assignment principles
+Capitalization table | A company tracks outstanding equity, convertible interests, and ownership percentages across investors and employees. | Startup financing practice
+Term sheet | Negotiating parties set out core proposed deal economics and terms, often with largely nonbinding provisions except designated clauses. | Contract negotiation principles
+Representations and warranties | Parties allocate factual risk through statements about their business, compliance, and assets. | Transaction contract principles
+Indemnification clause | A contract specifies which party bears designated losses from breaches or third-party claims. | Contract drafting principles
+Due diligence | A prospective investor examines financial, legal, operational, and regulatory information before committing to a transaction. | Transaction practice
+## Business Taxation
+C corporation tax | A corporation pays federal income tax on earnings, and distributions to shareholders can create a second tax layer. | 26 U.S.C. §§ 11, 301
+S corporation election | A qualifying small business corporation elects pass-through treatment subject to shareholder and eligibility restrictions. | 26 U.S.C. §§ 1361–1362
+Partnership pass-through | The partnership ordinarily computes tax items but its partners report allocable shares rather than the entity paying regular federal income tax. | 26 U.S.C. §§ 701–702
+Entity classification | An eligible business entity may receive different federal tax treatment based on form and valid elections. | 26 C.F.R. §§ 301.7701-2 to -3
+Section 351 contribution | A property transfer to a corporation solely for stock can be nonrecognition when transferors satisfy statutory control requirements. | 26 U.S.C. § 351
+Section 721 contribution | Contributing property to a partnership in exchange for an interest is generally a nonrecognition event. | 26 U.S.C. § 721
+Outside basis | A partner's adjusted tax basis in the partnership interest affects gain, loss, and distribution treatment. | 26 U.S.C. §§ 705, 722
+Inside basis | A partnership's adjusted basis in its underlying assets is distinct from partners' bases in their interests. | 26 U.S.C. §§ 723, 743
+Disguised sale | A purported partnership contribution and distribution may be recharacterized as a taxable sale under statutory rules. | 26 U.S.C. § 707(a)(2)(B)
+Corporate dividends received deduction | A corporate shareholder may deduct a statutory percentage of qualifying dividends received from another domestic corporation. | 26 U.S.C. § 243
+## Payment Systems
+Negotiable instrument | A signed writing contains an unconditional promise or order to pay fixed money and satisfies the other formal requirements. | UCC § 3-104
+Holder in due course | A qualifying holder takes a negotiable instrument for value, in good faith, and without specified notice of problems. | UCC § 3-302
+Personal defenses | A payer raises ordinary underlying contract defenses that typically do not defeat a protected holder in due course. | UCC § 3-305
+Real defenses | A defense such as certain forgery, infancy, or fraud in the factum can be asserted even against a holder in due course. | UCC § 3-305
+Indorsement | A signature on an instrument transfers or affects negotiation of instrument rights under Article 3. | UCC § 3-204
+Negotiation | Transfer of possession and required indorsement makes the recipient a holder of a negotiable instrument. | UCC § 3-201
+Presentment | A person entitled to enforce an instrument formally demands payment or acceptance from the responsible party. | UCC § 3-501
+Dishonor | Payment or acceptance required for an instrument is refused or not made under the governing presentment rules. | UCC § 3-502
+Check collection | A collecting bank processes an item for payment under the interbank collection rules of Article 4. | UCC Article 4
+Funds transfer | A bank-to-bank payment order is governed by Article 4A rather than Article 3 check principles. | UCC Article 4A
+## Banking & Fintech
+Federal deposit insurance | Qualifying bank deposits receive statutory insurance subject to account ownership categories and coverage limits. | 12 U.S.C. § 1821
+Bank charter | An institution's charter determines whether and how it may exercise banking powers under state or federal supervision. | National Bank Act; state banking laws
+Bank examination | Supervisors review a bank's safety, soundness, risk controls, and statutory compliance. | Federal banking supervision law
+Capital adequacy | A regulator requires a bank to maintain minimum capital relative to its assets or risk exposure. | 12 C.F.R. banking capital rules
+Bank Secrecy Act | Financial institutions have anti-money-laundering compliance and reporting duties for specified transactions. | 31 U.S.C. § 5311 et seq.
+Customer identification | Covered institutions verify identifying information when opening accounts under applicable anti-money-laundering rules. | 31 C.F.R. § 1020.220
+Truth in Lending | Consumer-credit disclosures communicate key financing terms such as annual percentage rate and finance charges. | 15 U.S.C. § 1601 et seq.
+Electronic Fund Transfer Act | Consumer protections govern specified electronic account transfers and unauthorized transactions. | 15 U.S.C. § 1693 et seq.
+Fair Credit Reporting Act | Credit reporting agencies and users of consumer reports face duties concerning accuracy, permissible purpose, and disclosures. | 15 U.S.C. § 1681 et seq.
+Consumer Financial Protection Bureau | A federal regulator supervises and enforces various consumer-financial protection statutes within its authority. | 12 U.S.C. § 5491
+## Antitrust Law
+Horizontal price fixing | Competing firms agree on the prices they will charge rather than set prices independently. | Sherman Act § 1
+Market allocation | Competitors agree to divide customers or geographic territories to avoid competing with each other. | Sherman Act § 1
+Bid rigging | Rival bidders coordinate bids instead of competing for a contract on independent terms. | Sherman Act § 1
+Rule of reason | A court weighs a challenged restraint's competitive harms and legitimate benefits within a structured antitrust analysis. | Sherman Act § 1
+Per se illegality | Certain restraints receive categorical condemnation without full market-by-market balancing because of predictable anticompetitive harm. | Sherman Act § 1
+Monopolization | A firm possesses monopoly power in a relevant market and maintains it through exclusionary conduct rather than competition on merits alone. | Sherman Act § 2
+Attempted monopolization | A company undertakes exclusionary acts with specific intent and dangerous probability of achieving monopoly power. | Sherman Act § 2
+Relevant product market | Analysts identify products reasonably interchangeable from consumers' perspective for evaluating competitive effects. | Antitrust market-definition law
+Merger review | Agencies examine whether a proposed acquisition may substantially lessen competition or tend to create monopoly. | Clayton Act § 7
+Price discrimination | A seller charges competing purchasers different prices for commodities under circumstances addressed by a distinct federal statute. | Robinson-Patman Act; 15 U.S.C. § 13
+## Insurance Law
+Insurable interest | A policyholder must have a legally recognized stake in avoiding the insured loss under applicable insurance law. | State insurance law
+Utmost good faith | An applicant's disclosure duties and consequences of material misrepresentation are governed by insurance contract rules. | State insurance application law
+Material misrepresentation | A false application answer affecting an insurer's underwriting decision can support rescission under state-law conditions. | State insurance law
+Coverage grant | A policy's insuring agreement states the basic risks for which the insurer promises protection. | Insurance contract law
+Policy exclusion | An otherwise covered loss is removed from coverage by an exclusion subject to interpretive rules. | Insurance contract law
+Deductible | The insured must bear a specified portion of a covered loss before indemnity payment applies. | Insurance contract law
+Subrogation | After paying an insured, an insurer may pursue the insured's claim against a legally responsible third party. | Insurance subrogation doctrine
+Duty to defend | A liability insurer must provide a defense when pleadings or known facts meet the applicable potential-coverage standard. | State duty-to-defend law
+Duty to indemnify | An insurer must pay covered legal liability after the underlying facts and policy terms establish coverage. | State liability insurance law
+Bad-faith claims handling | An insurer unreasonably refuses coverage or settlement in circumstances meeting state statutory or common-law standards. | State insurer bad-faith law
+## Nonprofit Organizations
+Charitable purpose | An organization operates for qualifying charitable, religious, scientific, or educational aims under the federal tax statute. | 26 U.S.C. § 501(c)(3)
+Organizational test | The founding documents limit a would-be charity to exempt purposes and satisfy required restrictions. | 26 C.F.R. § 1.501(c)(3)-1(b)
+Operational test | An exempt organization must primarily engage in activities accomplishing exempt purposes rather than substantial nonexempt activity. | 26 C.F.R. § 1.501(c)(3)-1(c)
+Private inurement | A charity's earnings improperly benefit insiders instead of furthering qualifying charitable aims. | 26 U.S.C. § 501(c)(3)
+Private benefit | An organization provides more than incidental noncharitable advantage to private persons, potentially jeopardizing exemption. | 26 C.F.R. § 1.501(c)(3)-1(d)
+Unrelated business income | A tax-exempt entity earns regular revenue from a trade or business not substantially related to its exempt purpose. | 26 U.S.C. § 512
+Lobbying restriction | A § 501(c)(3) organization devotes a substantial portion of activity to attempting to influence legislation. | 26 U.S.C. § 501(c)(3)
+Political campaign intervention | A § 501(c)(3) charity directly participates or intervenes for or against a political candidate. | 26 U.S.C. § 501(c)(3)
+Board duty of care | Nonprofit directors must act with appropriate attention and informed judgment on organizational affairs. | State nonprofit corporation law
+Donor restricted gift | A nonprofit receives a donation earmarked for a specific permissible use and must honor enforceable restrictions or obtain lawful modification. | UPMIFA; state charitable trust law
+## Real Estate Transactions
+Purchase agreement | Buyer and seller sign a contract governing conveyance, price, timing, title obligations, and conditions. | State real-property contract law
+Earnest money | A buyer deposits funds showing commitment under a property agreement, subject to contract forfeiture and return provisions. | Real estate contract practice
+Marketable title | A seller generally must convey title free of unreasonable doubt or qualifying defects unless the contract allocates risk otherwise. | Marketable-title doctrine
+General warranty deed | A grantor gives broad title covenants protecting against defects including those predating the grantor's ownership. | State deed law
+Quitclaim deed | A grantor transfers whatever interest the grantor has without the title assurances typical of warranty deeds. | State deed law
+Recording act notice | A subsequent purchaser's priority may turn on notice of earlier interests and the jurisdiction's recording statute. | State recording statutes
+Escrow | A neutral party holds documents or funds and releases them when agreed closing conditions are met. | Real estate transaction practice
+Title insurance | An insurance contract protects an insured against covered title defects subject to exclusions and limits. | State title insurance law
+Mortgage foreclosure | A secured real estate creditor enforces its lien after default through applicable judicial or nonjudicial sale procedures. | State mortgage law
+Equitable conversion | Under some state doctrines an enforceable land-sale contract changes parties' equitable and legal ownership interests before closing. | State property doctrine
+## Pretrial Litigation
+Pleading plausibility | A civil complaint must allege enough nonconclusory facts to support a plausible claim for relief. | Bell Atlantic Corp. v. Twombly; Ashcroft v. Iqbal
+Rule 12(b)(6) motion | A defendant argues that even accepting well-pleaded facts as true the complaint fails to state a legally sufficient claim. | Fed. R. Civ. P. 12(b)(6)
+Rule 11 certification | Counsel signing a filing certifies a proper purpose and an objectively supportable factual and legal basis after reasonable inquiry. | Fed. R. Civ. P. 11
+Initial disclosures | Parties ordinarily exchange specified witness and document information without first awaiting a formal discovery request. | Fed. R. Civ. P. 26(a)(1)
+Proportional discovery | Requested nonprivileged material must be relevant to claims or defenses and proportional to the needs of the case. | Fed. R. Civ. P. 26(b)(1)
+Work-product protection | Materials prepared in anticipation of litigation receive qualified protection from opponent discovery, especially attorney mental impressions. | Fed. R. Civ. P. 26(b)(3)
+Interrogatories | A party serves written questions answered under oath by another party within rule limits. | Fed. R. Civ. P. 33
+Depositions | Counsel questions a witness under oath before trial, creating a recorded testimony transcript. | Fed. R. Civ. P. 30
+Summary judgment | The movant shows no genuine dispute of material fact and entitlement to judgment as a matter of law. | Fed. R. Civ. P. 56
+Pretrial order | The court defines claims, defenses, witnesses, and trial issues through a scheduling or final pretrial conference order. | Fed. R. Civ. P. 16
+## Trial Advocacy
+Theory of case | Trial counsel develops a coherent factual and legal account that integrates expected testimony and governing law. | Trial advocacy methods
+Opening statement | Counsel previews the evidence expected at trial rather than treating the presentation as closing argument. | Trial practice fundamentals
+Direct examination | A lawyer elicits a friendly witness's observations generally using nonleading questions that allow narrative testimony. | FRE 611(c)
+Cross-examination | Counsel probes an opposing witness through focused questions often permitted to be leading. | FRE 611(c)
+Foundation | An attorney first establishes necessary witness knowledge or evidentiary prerequisites before offering substantive proof. | FRE 602; FRE 901
+Impeachment by contradiction | Cross-examination or other admissible proof reveals that a witness's material testimony conflicts with other facts. | Federal impeachment doctrine
+Prior inconsistent statement | Counsel challenges testimony using a witness's earlier contradictory statement with appropriate procedural safeguards. | FRE 613
+Objection preservation | Trial counsel timely identifies the basis of an evidentiary objection to preserve potential appellate review. | FRE 103(a)
+Offer of proof | Excluded evidence is described on the record so an appellate court can assess its substance and claimed relevance. | FRE 103(a)(2)
+Closing argument | A lawyer explains how admitted evidence and permissible inferences support a favorable verdict under the legal instructions. | Trial practice fundamentals
+## Appellate Advocacy
+Notice of appeal | A litigant files the procedural document that ordinarily initiates review in a higher court within the applicable deadline. | Fed. R. App. P. 3–4
+Final judgment rule | Federal appellate jurisdiction ordinarily follows a decision resolving all claims as to all parties, absent an exception. | 28 U.S.C. § 1291
+Interlocutory appeal | A party seeks review before final judgment using a specifically authorized exception or certification. | 28 U.S.C. § 1292
+Collateral order doctrine | A narrow class of conclusive separate and effectively unreviewable orders qualifies for immediate appeal. | Cohen v. Beneficial Industrial Loan
+De novo review | An appellate court independently decides a legal question without deferring to the trial judge's interpretation. | Appellate standards of review
+Clear-error review | A bench-trial factual finding is reversed only when the appellate court is firmly convinced a mistake occurred. | Fed. R. Civ. P. 52(a)(6)
+Abuse-of-discretion review | An appellate court evaluates whether a trial judge exceeded lawful discretion in a procedural or evidentiary ruling. | Appellate standards of review
+Preservation of error | A litigant generally must properly raise an argument or objection below to obtain ordinary appellate consideration. | Appellate procedure doctrine
+Harmless error | An error does not warrant reversal when it did not affect substantial rights under the governing standard. | 28 U.S.C. § 2111; Fed. R. Civ. P. 61
+Amicus curiae brief | A nonparty offers legal perspective to an appellate court subject to rules governing friend-of-court submissions. | Fed. R. App. P. 29
+## Advanced Legal Research
+Primary authority | A controlling statute, regulation, or reported court opinion states law itself rather than merely commenting on it. | Legal research fundamentals
+Secondary authority | A treatise or legal encyclopedia explains and analyzes sources of law without itself usually binding courts. | Legal research fundamentals
+Mandatory precedent | A lower court generally must follow controlling holdings of a higher court within its governing jurisdiction. | Stare decisis
+Persuasive precedent | A court may consider another jurisdiction's reasoning but is not required to follow that tribunal's holding. | Stare decisis
+KeyCite or Shepardize | A researcher checks later judicial treatment and history of an authority before citing it. | Legal citator practice
+Statutory updating | A researcher verifies enacted amendments and effective dates rather than relying on an outdated printed code. | Legislative research practice
+Regulatory history | A researcher compares proposed regulations, final rules, and agency explanations to understand rule development. | Federal Register; Code of Federal Regulations
+Legislative history | A researcher examines bills, committee reports, debates, and enactment records relevant to statutory context. | Congressional legislative materials
+Research trail | A researcher records queries, sources, jurisdictions, dates, and subsequent leads so work can be reproduced. | Legal research methodology
+Jurisdiction filtering | Search results are narrowed to governing federal circuit, state, court level, and applicable date. | Legal research methodology
+## Negotiation
+BATNA | A negotiator identifies the best realistic course of action available if talks produce no agreement. | Fisher and Ury, Getting to Yes (negotiation concepts)
+Reservation point | A party identifies its walk-away threshold rather than confusing it with an ambitious opening offer. | Negotiation theory
+Aspiration point | A negotiator sets a challenging target outcome preferred to the minimum acceptable deal. | Negotiation theory
+ZOPA | The negotiating parties' acceptable settlement ranges overlap, making agreement potentially possible. | Negotiation theory
+Distributive bargaining | Parties bargain over allocation of a relatively fixed amount of value, such as price alone. | Negotiation theory
+Integrative bargaining | Parties discover differently valued terms to create mutual gains instead of dividing a single fixed number. | Negotiation theory
+Anchoring | An initial numerical offer influences later estimates and concessions even when negotiators should assess underlying value. | Negotiation psychology
+Objective criteria | Negotiators propose neutral benchmarks such as market rates rather than relying only on positional demands. | Principled negotiation
+Interest-based negotiation | Negotiators investigate underlying motivations and needs instead of focusing solely on stated positions. | Principled negotiation
+Contingent agreement | Parties allocate uncertainty through an 'if event X occurs, then payment Y' contract term. | Contract negotiation practice
+## Mediation
+Facilitative mediation | A neutral manages discussion and helps parties evaluate options without normally deciding legal merits for them. | Mediation practice
+Evaluative mediation | A neutral offers candid assessments of potential claims or outcomes while leaving settlement authority with parties. | Mediation practice
+Mediator neutrality | A neutral discloses conflicts and seeks to avoid bias impairing confidence in the process. | Model Standards of Conduct for Mediators
+Confidential caucus | The mediator meets separately with a party to explore concerns subject to confidentiality terms and law. | Mediation practice
+Voluntary settlement | Parties generally control whether to accept a proposed resolution rather than having the mediator impose it. | Mediation practice
+Mediator confidentiality | Statements made in a qualifying mediation may receive specified statutory evidentiary protection, with exceptions. | Uniform Mediation Act; state law
+Reality testing | A mediator asks questions designed to help parties reassess litigation risks and practical alternatives. | Mediation practice
+Impasse | Negotiation reaches an apparent deadlock that may call for reframing, caucusing, or a break. | Mediation practice
+Mediation agreement | Parties memorialize mutually accepted terms in an enforceable agreement subject to applicable formation requirements. | Contract law; state mediation law
+Shuttle diplomacy | A mediator moves between separated parties to exchange proposals when direct negotiation is unproductive. | Mediation practice
+## Arbitration
+Arbitration agreement | Contracting parties agree to submit defined disputes to a private adjudicative process rather than ordinary trial. | 9 U.S.C. § 2
+Arbitrability | A court or arbitrator decides whether a particular dispute falls within a valid agreement to arbitrate. | Federal Arbitration Act doctrine
+Delegation clause | Parties clearly agree that an arbitrator, rather than a court, will resolve certain gateway arbitrability issues. | Rent-A-Center v. Jackson
+Arbitral award | A neutral decisionmaker issues a determination resolving submitted claims in an adjudicative process. | Federal Arbitration Act
+Award confirmation | A party petitions a court to enforce an arbitration award through judgment under applicable statutory procedures. | 9 U.S.C. § 9
+Vacatur | A party requests setting aside an award on narrow statutory grounds such as corruption or arbitrator misconduct. | 9 U.S.C. § 10
+Class arbitration consent | Whether parties agreed to class-wide proceedings cannot ordinarily be inferred solely from a general arbitration clause's silence. | Lamps Plus v. Varela
+Separability | A challenge directed at a contract generally may leave an arbitration clause separately enforceable unless the clause itself is challenged. | Prima Paint v. Flood & Conklin
+Arbitrator disclosure | A neutral identifies relationships or circumstances that may reasonably raise questions about impartiality. | Arbitration ethics and institutional rules
+International award enforcement | A party seeks recognition of a qualifying foreign arbitral award under an international treaty framework. | New York Convention; 9 U.S.C. ch. 2
+## Client Counseling
+Open-ended interviewing | Counsel begins fact gathering with prompts inviting the client to describe events in the client's own words. | Lawyering skills practice
+Active listening | An attorney paraphrases a client's account and asks confirmation before moving to legal advice. | Client interviewing practice
+Client objectives | Counsel clarifies the client's desired result before choosing legal tactics on the client's behalf. | ABA Model Rule 1.2
+Informed consent | A client agrees to a proposed legal course after receiving adequate information and explanation of material risks and alternatives. | ABA Model Rule 1.0(e)
+Risk communication | Counsel explains the range of possible outcomes and uncertainties rather than promising success. | ABA Model Rules 1.1 and 1.4
+Scope limitation | Lawyer and client reasonably agree to restrict representation after the client gives informed consent. | ABA Model Rule 1.2(c)
+Conflicts screening | A firm checks prospective, current, and former client relationships before accepting a matter. | ABA Model Rules 1.7–1.10
+Client autonomy | The client decides whether to accept settlement while counsel advises on legal and practical consequences. | ABA Model Rule 1.2(a)
+Trauma-informed interviewing | Counsel avoids unnecessarily re-traumatizing a client and offers choice and appropriate pacing while gathering essential facts. | Professional interviewing practices
+Closing a meeting | Lawyer summarizes next steps, who will act, deadlines, and how the client can communicate questions. | ABA Model Rule 1.4
+## Legal Citation & Bluebook
+Case reporter citation | A judicial opinion is identified by party names, reporter volume, reporter abbreviation, first page, and court/year where required. | The Bluebook; legal citation fundamentals
+Statutory citation | A researcher directs readers to an enacted provision by code title and section under the applicable citation system. | The Bluebook; statutory citation fundamentals
+Pinpoint citation | A citation directs the reader to the particular page or paragraph supporting a specific legal proposition. | Legal citation practice
+Signal 'see' | A citation signal indicates the source clearly supports a proposition but requires some inferential step. | The Bluebook citation signals
+Signal 'cf.' | A citation introduces authority supporting a different but sufficiently analogous proposition. | The Bluebook citation signals
+Parenthetical explanation | A brief note after a source citation identifies the particular reason the case or statute supports the stated proposition. | Legal citation practice
+Short-form citation | After a full citation, a permissible abbreviated form identifies the same authority without unnecessary repetition. | The Bluebook short forms
+Id. | A legal writer cites the immediately preceding authority using an allowed abbreviated reference, subject to citation conventions. | The Bluebook short forms
+Subsequent history | A case citation alerts readers that a later court affirmed, reversed, or otherwise disposed of the cited decision. | The Bluebook history rules
+Quotation alteration | Brackets or other prescribed notation make changes to quoted material transparent rather than silently changing source language. | Legal quotation and citation ethics
+## Alternative Dispute Resolution
+Negotiation | Parties or their representatives directly seek agreement without requiring a neutral to adjudicate the dispute. | ADR fundamentals
+Mediation | A neutral facilitates voluntary settlement but generally cannot impose an adjudicative result. | ADR fundamentals
+Arbitration | A neutral hears a dispute and typically issues a decision enforceable according to the agreement and governing law. | Federal Arbitration Act
+Early neutral evaluation | An independent expert gives parties an early, nonbinding assessment of litigation strengths and likely outcomes. | ADR practice
+Mini-trial | Parties present condensed cases to decisionmakers to facilitate business settlement rather than obtain ordinary judicial judgment. | ADR practice
+Med-arb | Parties first mediate and, if unsuccessful, shift to arbitration under an agreed procedure with safeguards. | ADR practice
+Court-annexed mediation | A judicial system refers eligible lawsuits to mediation while ultimate settlement generally remains voluntary. | Local court ADR rules
+Collaborative law | Parties and counsel contract to negotiate without litigation, often requiring counsel withdrawal if the process fails. | Uniform Collaborative Law Act
+Restorative justice | A structured process emphasizes acknowledging harm, participation, and repair rather than simply deciding legal liability. | Restorative justice practice
+Online dispute resolution | Digital communication and platforms facilitate negotiation, mediation, or other consensual dispute processes. | ADR technology practice
+## Environmental Law
+NEPA environmental impact statement | A qualifying major federal action with significant environmental effects may require a detailed federal impact statement. | 42 U.S.C. § 4332
+NEPA environmental assessment | An agency prepares a more limited review to determine whether a full impact statement is warranted. | 42 U.S.C. § 4332; NEPA regulations
+NPDES permit | A regulated point source generally needs authorization before discharging pollutants into jurisdictional waters. | Clean Water Act § 402; 33 U.S.C. § 1342
+Wetlands fill permit | A project proposes a discharge of dredged or fill material into federally covered waters, implicating a distinct permit program. | Clean Water Act § 404; 33 U.S.C. § 1344
+CERCLA response liability | Statutory potentially responsible parties may owe costs of cleanup at a contaminated hazardous substance site. | 42 U.S.C. § 9607
+RCRA hazardous waste | A generator must comply with cradle-to-grave management and disposal requirements for qualifying hazardous waste. | 42 U.S.C. § 6901 et seq.
+Clean Air Act SIP | A state submits a plan to achieve and maintain national ambient air quality standards with federal oversight. | 42 U.S.C. § 7410
+Endangered Species Act consultation | A federal agency consults about actions that may affect listed species or critical habitat. | 16 U.S.C. § 1536
+Citizen suit | An eligible private plaintiff sues an alleged statutory violator under a federal environmental enforcement provision. | 33 U.S.C. § 1365
+Polluter pays principle | Environmental policy allocates costs of pollution prevention or remediation to parties responsible for causing pollution. | Environmental policy principle
+## Agricultural Law
+Farm tenancy | A farmer obtains possession and cultivation rights under a landowner's agricultural lease rather than acquiring title. | State agricultural lease law
+Sharecropping | A landowner and cultivator agree that rent or compensation will be a share of agricultural production. | Agricultural tenancy law
+Agricultural lien | State law gives a supplier or service provider an interest in farm products or proceeds to secure specified obligations. | UCC § 9-102(a)(5); state law
+Federal crop insurance | Farmers obtain subsidized insurance against defined agricultural yield or revenue risks through a federal program. | Federal Crop Insurance Act
+Farm program payments | Eligibility for federal commodity support may depend on acreage, commodity, and compliance with program rules. | Federal farm legislation
+Packers and Stockyards Act | A livestock market participant challenges specified unfair, discriminatory, or deceptive practices under a federal statute. | 7 U.S.C. § 181 et seq.
+Right-to-farm law | An established agricultural operation invokes statutory protection against certain nuisance complaints. | State right-to-farm statutes
+Agricultural nuisance | Neighbors claim a farm's odors, dust, or noise unreasonably interfere with use and enjoyment of their property. | State nuisance law
+Conservation easement | A landowner permanently limits development to protect natural resources through an enforceable recorded interest. | State conservation easement statutes
+Pesticide labeling | A regulated producer must comply with federal registration and labeling rules for pesticide distribution and use. | FIFRA; 7 U.S.C. § 136 et seq.
+## Natural Resources & Water Law
+Riparian rights | Owners of land adjoining a watercourse assert reasonable-use rights associated with that shorefront property. | Eastern water-law doctrines
+Prior appropriation | A water user claims priority based on earlier beneficial diversion and use under western-state doctrine. | Western state water law
+Beneficial use | Water rights are conditioned on applying appropriated water to a recognized productive purpose without waste. | State appropriation law
+Public trust doctrine | Government has obligations concerning designated resources such as navigable waters held for public use. | State public-trust doctrine
+Groundwater regulation | A landowner's pumping of underground water is constrained by the jurisdiction's statutory or common-law allocation system. | State groundwater law
+Interstate water compact | States agree on a legally binding allocation or management arrangement for a shared basin with congressional consent where required. | Interstate compact law
+Reserved federal water rights | Creation of a federal reservation can implicitly reserve water necessary to accomplish its purpose under applicable law. | Winters v. United States
+Clean Water Act jurisdiction | Federal regulation of particular streams or wetlands turns on whether they meet statutory waters-of-the-United-States limits. | Sackett v. EPA; 33 U.S.C. § 1362
+Mineral severance | Surface and subsurface mineral interests are owned separately with distinct rights and obligations. | State mineral-property law
+Public lands permitting | Resource extraction on federally managed lands may require leases, environmental review, and agency approvals. | Federal public lands statutes
+## Immigration Law
+Nonimmigrant classification | A traveler seeks temporary admission for an authorized purpose under a specified visa category. | 8 U.S.C. § 1101(a)(15)
+Immigrant visa petition | A sponsor seeks classification for an eligible beneficiary to pursue permanent residence subject to statutory categories. | 8 U.S.C. § 1154
+Adjustment of status | An eligible person already present in the United States seeks lawful permanent residence without consular visa processing. | 8 U.S.C. § 1255
+Removal proceedings | Immigration court determines deportability or inadmissibility and possible relief under statutory procedures. | 8 U.S.C. § 1229a
+Asylum | An applicant seeks protection from persecution based on a protected ground, subject to one-year filing and other limitations. | 8 U.S.C. § 1158
+Withholding of removal | Removal to a particular country is barred if the applicant establishes the required likelihood of persecution on a protected ground. | 8 U.S.C. § 1231(b)(3)
+Convention Against Torture protection | A noncitizen seeks protection from return based on likelihood of torture under the implementing regulatory scheme. | 8 C.F.R. §§ 1208.16–1208.18
+Naturalization | A lawful permanent resident seeks citizenship after meeting residence, character, testing, and other statutory conditions. | 8 U.S.C. § 1427
+Unlawful presence bars | A person departing after defined periods of unlawful presence may face statutory inadmissibility on attempted reentry. | 8 U.S.C. § 1182(a)(9)(B)
+Cancellation of removal | An eligible noncitizen requests discretionary relief from removal based on statutory residence and hardship requirements. | 8 U.S.C. § 1229b
+## Employment & Labor Law
+Employee versus contractor | Legal classification turns on statutory context and degree of control or economic dependence rather than job title alone. | FLSA and common-law employment tests
+Minimum wage | A covered employer must compensate nonexempt employees at no less than the applicable statutory floor. | 29 U.S.C. § 206
+Overtime premium | Covered nonexempt employees ordinarily receive extra compensation for hours worked beyond 40 in a workweek. | 29 U.S.C. § 207
+FMLA leave | Eligible workers at covered employers receive protected leave for specified family or serious health circumstances. | 29 U.S.C. § 2612
+Collective bargaining | A union acts as bargaining representative for employees in a legally recognized negotiating unit. | National Labor Relations Act
+Protected concerted activity | Employees jointly discuss or act to improve working conditions and may receive protection even without union representation. | NLRA § 7; 29 U.S.C. § 157
+Unfair labor practice | An employer interferes with protected organizing or discriminates against workers because of union activity. | NLRA § 8; 29 U.S.C. § 158
+Duty to bargain in good faith | An employer and certified union must meet and confer genuinely about mandatory subjects of collective bargaining. | 29 U.S.C. § 158(d)
+Occupational safety duty | A covered employer must comply with safety standards and general statutory workplace hazard requirements. | 29 U.S.C. § 654
+Worker classification under workers' comp | Work-related injuries are compensated through a state no-fault employment system with specified exclusivity rules. | State workers' compensation statutes
+## Health Law
+Informed consent | A clinician discloses material risks, benefits, and alternatives so a capable patient can choose among proposed interventions. | State consent law; Canterbury v. Spence
+Medical malpractice duty | A health care professional owes patients care consistent with the applicable professional standard under state negligence law. | State medical malpractice law
+HIPAA privacy rule | Covered entities face federal restrictions and permissions governing use and disclosure of protected health information. | 45 C.F.R. pts. 160, 164
+HIPAA security rule | Covered entities and business associates safeguard electronic protected health information under administrative, technical, and physical standards. | 45 C.F.R. pt. 164 subpt. C
+EMTALA screening | A covered emergency department generally must provide an appropriate medical screening examination to an individual who requests evaluation. | 42 U.S.C. § 1395dd
+EMTALA stabilization | A covered hospital faces duties to stabilize an identified emergency medical condition within statutory limits before certain transfers. | 42 U.S.C. § 1395dd
+Medicare coverage | A federal program provides health insurance for qualifying older adults and specified people with disabilities. | Title XVIII Social Security Act
+Medicaid coverage | Joint federal-state financing supports health care for eligible low-income and other qualifying populations subject to state plan rules. | Title XIX Social Security Act
+Anti-Kickback Statute | A provider receives remuneration intended to induce referrals for items or services covered by federal health care programs. | 42 U.S.C. § 1320a-7b(b)
+Stark Law | A physician refers designated health services to an entity with a financial relationship absent a statutory or regulatory exception. | 42 U.S.C. § 1395nn
+## Mental Health Law
+Civil commitment standard | Involuntary hospitalization ordinarily requires heightened clear-and-convincing proof of statutory commitment grounds. | Addington v. Texas
+Dangerousness requirement | A state seeks confinement based on mental illness but must also satisfy applicable danger or inability-to-care criteria. | O'Connor v. Donaldson
+Least restrictive alternative | A court or agency considers less restrictive suitable treatment where governing law requires minimization of liberty constraints. | State civil-commitment law
+Emergency psychiatric hold | Officials temporarily detain someone in acute crisis under short-term state emergency evaluation procedures. | State mental health statutes
+Competence to stand trial | A defendant must have rational and factual understanding and sufficient present ability to consult with counsel. | Dusky v. United States
+Insanity defense | A defendant's mental condition at the time of the offense is evaluated under a jurisdiction's criminal responsibility test. | State/federal insanity doctrine
+Involuntary medication for trial competence | Government seeks medication to restore competence under a special constitutional balancing framework. | Sell v. United States
+Patient decision-making capacity | A person must understand, appreciate, reason about, and communicate a treatment choice in the relevant context. | Clinical capacity assessment principles
+Psychotherapist-patient privilege | Qualifying confidential therapeutic communications may be protected from compelled disclosure in federal proceedings. | Jaffee v. Redmond
+Duty to protect third parties | A clinician learns of a credible threat and must consider jurisdiction-specific duties to warn or protect identifiable persons. | Tarasoff v. Regents; state law
+## Intellectual Property
+Copyright | Original expression fixed in a tangible medium is protected subject to statutory limits and exclusions. | 17 U.S.C. § 102
+Patent | A time-limited federal exclusionary right may issue for a qualifying useful, novel, and nonobvious invention with adequate disclosure. | 35 U.S.C. §§ 101–103, 112
+Trademark | A source-identifying sign for goods or services receives protection against specified likelihood of consumer confusion. | 15 U.S.C. §§ 1114, 1125
+Trade secret | Commercially valuable nonpublic information protected by reasonable secrecy efforts can receive misappropriation remedies. | 18 U.S.C. § 1839
+Fair use | A user invokes a contextual statutory defense to copyright infringement based on purpose, nature, amount, and market effect. | 17 U.S.C. § 107
+Copyright idea-expression distinction | An abstract concept cannot be monopolized through copyright even if a specific original expression is protected. | 17 U.S.C. § 102(b)
+Patent claim construction | A court determines the legally relevant meaning and scope of patent claim language in an infringement dispute. | Markman v. Westview Instruments
+Trademark distinctiveness | A mark's protectability turns on whether it identifies source rather than merely describes products without acquired meaning. | Lanham Act; Abercrombie & Fitch v. Hunting World
+Trade dress | Product packaging or design allegedly identifies commercial source, requiring distinctiveness and nonfunctionality analysis. | 15 U.S.C. § 1125(a)
+Right of publicity | An individual claims unauthorized commercial exploitation of identity interests under applicable state doctrine. | State publicity rights
+## Patent Law
+Patentable subject matter | A claim must fit statutory categories and avoid claiming an abstract idea, law of nature, or natural phenomenon as such. | 35 U.S.C. § 101; Alice Corp. v. CLS Bank
+Novelty | A claimed invention lacks this requirement if a single qualifying prior-art reference discloses every claim element as required. | 35 U.S.C. § 102
+Nonobviousness | Even when not identically disclosed, a claim can fail if differences from prior art would have been obvious to a skilled person. | 35 U.S.C. § 103; Graham v. John Deere
+Written description | A patent specification must reasonably convey that the inventor possessed the claimed invention at filing. | 35 U.S.C. § 112(a)
+Enablement | A patent specification must teach a skilled person to make and use the full claimed scope without undue experimentation. | 35 U.S.C. § 112(a); Amgen v. Sanofi
+Definiteness | Patent claims must inform skilled readers of their scope with reasonable certainty in the context of specification and prosecution. | 35 U.S.C. § 112(b); Nautilus v. Biosig
+Literal infringement | Every limitation of at least one asserted claim is found in the accused product or process as construed. | 35 U.S.C. § 271(a)
+Doctrine of equivalents | An accused element may infringe despite not literally satisfying a claim limitation if recognized equivalence criteria are met. | Warner-Jenkinson v. Hilton Davis
+Prosecution history estoppel | A patentee's narrowing amendment for patentability can limit later resort to equivalents for surrendered subject matter. | Festo Corp. v. Shoketsu
+Exhaustion | An authorized sale of a patented item generally terminates U.S. patent control over that particular item. | Impression Products v. Lexmark
+## Copyright Law
+Originality | A work must be independently created with at least a minimal degree of creativity rather than merely copied. | Feist Publications v. Rural Telephone
+Fixation | An original work of authorship is embodied in a sufficiently stable medium to be perceived or reproduced. | 17 U.S.C. § 101
+Idea-expression distinction | Copyright does not extend to abstract ideas, systems, or methods of operation apart from protectable expression. | 17 U.S.C. § 102(b)
+Reproduction right | A copyright holder generally controls unauthorized copying of protected expression subject to limitations and defenses. | 17 U.S.C. § 106(1)
+Derivative-work right | A creator adapts a protected story or other work into a new form without authorization, potentially implicating an exclusive right. | 17 U.S.C. § 106(2)
+Public performance right | A protected play, film, or music composition is presented to the public in a manner covered by statutory performance rights. | 17 U.S.C. § 106(4)
+Fair use | A court balances four statutory factors in assessing an unauthorized use's justification rather than treating education as automatically decisive. | 17 U.S.C. § 107
+First sale doctrine | Ownership of a lawfully made copy usually allows resale of that physical copy despite the copyright owner's distribution right. | 17 U.S.C. § 109(a)
+DMCA anticircumvention | A person bypasses a technological measure that effectively controls access to a copyrighted work, raising separate statutory issues. | 17 U.S.C. § 1201
+Work made for hire | Certain employee-created or specially commissioned works can make an employer or commissioning party the statutory author under strict conditions. | 17 U.S.C. §§ 101, 201(b)
+## Privacy & Cyberlaw
+Fourth Amendment search | Government collection of information may implicate constitutional privacy when it intrudes on reasonable privacy expectations or protected property. | Katz v. United States; United States v. Jones
+Stored Communications Act | Government or civil litigants seek stored electronic communications from service providers under federal disclosure restrictions. | 18 U.S.C. §§ 2701–2713
+Wiretap Act | A party intentionally intercepts communications contemporaneously without applicable consent or authorization. | 18 U.S.C. § 2511
+Computer Fraud and Abuse Act | A person intentionally accesses a protected computer without authorization or exceeds authorized access under statutory definitions. | 18 U.S.C. § 1030
+FTC unfairness | A company's data-security practices allegedly cause substantial unavoidable consumer injury not outweighed by benefits. | 15 U.S.C. § 45(n)
+Data breach notification | A business discovering certain unauthorized acquisition of personal information must notify affected persons under applicable state law. | State breach-notification statutes
+Children's Online Privacy Protection Act | Covered online services collecting information from children under 13 face parental consent and notice duties. | 15 U.S.C. §§ 6501–6506
+Privacy tort intrusion | Someone intentionally invades another's seclusion in a way highly offensive to a reasonable person. | Restatement (Second) of Torts § 652B
+Right to deletion | Certain privacy regimes allow eligible persons to request deletion of personal information subject to enumerated exceptions. | California Consumer Privacy Act; California Privacy Rights Act
+Cybersecurity incident response | An organization preserves evidence, contains a breach, investigates scope, and assesses legal notification duties. | Cybersecurity governance practices
+## International Law
+Treaty obligation | Parties must perform an international agreement in force in good faith under ordinary treaty law. | Vienna Convention on the Law of Treaties art. 26
+Customary international law | A rule develops through sufficiently general and consistent state practice accepted as legally required. | ICJ Statute art. 38(1)(b)
+Jus cogens | A peremptory norm of general international law permits no derogation by ordinary treaty agreement. | Vienna Convention arts. 53, 64
+State responsibility | A state's attributable conduct breaches an international obligation and can entail duties of cessation or reparation. | ILC Articles on State Responsibility
+Sovereign immunity | A state invokes protection against being haled into another state's courts subject to restrictive-immunity exceptions. | Foreign Sovereign Immunities Act; customary law
+Universal jurisdiction | A state asserts criminal jurisdiction over especially grave offenses despite limited traditional territorial or nationality links. | International criminal law doctrine
+Diplomatic immunity | Accredited diplomats receive specified protection from host-state criminal jurisdiction and certain civil process. | Vienna Convention on Diplomatic Relations
+Law of the sea territorial sea | A coastal state claims sovereignty over adjacent sea within internationally recognized breadth and passage limitations. | UNCLOS arts. 2–3
+Exclusive economic zone | A coastal state has special resource rights in an offshore zone but not full territorial sovereignty. | UNCLOS arts. 55–57
+International Court of Justice | States submit qualifying international legal disputes to the principal judicial organ of the United Nations. | UN Charter; ICJ Statute
+## International Human Rights
+ICCPR | A global treaty protects civil and political rights such as due process, religion, speech, and participation. | International Covenant on Civil and Political Rights
+ICESCR | A global treaty addresses economic, social, and cultural rights including work, education, and health. | International Covenant on Economic, Social and Cultural Rights
+Non-refoulement | A state faces restrictions on returning an individual to a territory where specified persecution or serious harm is likely. | Refugee Convention art. 33; Convention Against Torture art. 3
+Convention Against Torture | States accept duties to prevent and criminalize torture and to avoid returns to likely torture under treaty conditions. | Convention Against Torture
+Universal Declaration | A UN General Assembly declaration articulates foundational human rights principles but is not itself an ordinary ratified treaty. | Universal Declaration of Human Rights (1948)
+CEDAW | An international convention focuses on eliminating discrimination against women across protected spheres. | Convention on Elimination of Discrimination Against Women
+CRC | An international treaty recognizes children's civil, political, economic, social, and cultural rights. | Convention on the Rights of the Child
+Regional human rights court | A treaty-based tribunal reviews claimed human-rights violations by states within a specified regional system. | European Convention on Human Rights
+Proportionality review | A tribunal assesses whether interference with a qualified right is lawful, pursues a legitimate aim, and is necessary and proportionate. | International human rights adjudication
+State reporting | A treaty committee examines periodic national submissions about implementation of human rights commitments. | UN human rights treaty bodies
+## Space Law
+Nonappropriation | A nation cannot claim sovereignty over the Moon or another celestial body merely by occupation or declaration. | Outer Space Treaty art. II
+Freedom of exploration | States may explore and use outer space without discrimination and on a basis of equality under treaty principles. | Outer Space Treaty art. I
+State responsibility | A state bears international responsibility for national space activities including qualifying private-sector activities. | Outer Space Treaty art. VI
+Authorization and supervision | Private outer-space activity requires state authorization and continuing supervision under treaty commitments. | Outer Space Treaty art. VI
+Space object registration | Launching states register qualifying spacecraft through national and international procedures. | Registration Convention
+Launching state liability | A state that launches or procures launch may bear defined international responsibility for damage caused by its space object. | Liability Convention
+Absolute surface-damage liability | A launching state can be absolutely liable for qualifying damage caused by its space object on Earth or to aircraft in flight. | Liability Convention art. II
+Fault-based orbital liability | Collision damage between space objects outside Earth generally invokes a fault standard under the convention. | Liability Convention art. III
+Astronaut rescue | States must render specified assistance and return astronauts or space personnel in distress under treaty obligations. | Rescue Agreement
+Peaceful celestial bodies | The Moon and other celestial bodies are reserved for peaceful purposes, with specific restrictions on military installations and weapons testing. | Outer Space Treaty art. IV
+## National Security Law
+Commander in Chief | The President exercises constitutionally assigned command of armed forces while Congress retains significant war powers. | U.S. Const. art. II, § 2
+Declare war power | Congress has the express Article I authority to declare war rather than courts or agencies. | U.S. Const. art. I, § 8
+War Powers Resolution | Statutory reporting and time-limit provisions address introduction of armed forces into hostilities without specific congressional authorization. | 50 U.S.C. §§ 1541–1548
+Authorization for Use of Military Force | Congress authorizes specified military force through legislation short of a formal declaration of war. | 2001 AUMF; statutory war powers
+Foreign Intelligence Surveillance Act | Certain electronic surveillance for foreign intelligence must satisfy defined statutory authorization and oversight procedures. | 50 U.S.C. § 1801 et seq.
+Classified information procedures | Criminal litigation involving classified information uses special mechanisms for notice, substitutions, and admissibility. | Classified Information Procedures Act
+State secrets privilege | Government seeks to protect sensitive national-security information from disclosure in civil litigation under judicial scrutiny. | United States v. Reynolds
+Habeas corpus | A detainee challenges the legal basis of custody through a court petition, subject to jurisdictional rules. | U.S. Const. art. I, § 9; Boumediene v. Bush
+Ex parte Quirin military commissions | The Court addressed the permissible trial of certain unlawful belligerents by military commission in a wartime case. | Ex parte Quirin (1942)
+Ex parte Milligan limits | The Court rejected a military trial of a civilian where ordinary civilian courts were open and functioning under the case circumstances. | Ex parte Milligan (1866)
+## Sports Law
+Athlete endorsement contract | A player agrees to promote a brand in exchange for compensation and specified licensing rights. | Contract and publicity law
+Name image likeness rights | A college athlete monetizes personal publicity subject to governing law, school terms, and applicable association rules. | State NIL laws; NCAA policies
+Title IX athletics | A federally funded educational program must comply with sex nondiscrimination requirements in athletic opportunities. | 20 U.S.C. § 1681; 34 C.F.R. pt. 106
+Antitrust scrutiny of sports league | A sports association's coordinated economic restraints may be challenged under federal antitrust statutes. | Sherman Act; NCAA v. Alston
+Collective bargaining agreement | A professional league and players' union negotiate wages, working terms, dispute resolution, and related conditions. | National Labor Relations Act
+Salary cap | A sports league limits aggregate team compensation under collectively bargained and league rules. | League labor agreements
+Player arbitration | An athlete and team resolve qualifying contract or disciplinary disputes through an agreed adjudicative procedure. | Labor arbitration; league rules
+Concussion liability | A player alleges negligence or failure to warn about foreseeable head-injury risks arising from sport participation. | State tort law; league litigation
+Trademark licensing | A club permits merchandise makers to display protected team branding under negotiated conditions. | Lanham Act
+Doping regulation | Sports bodies impose eligibility and sanction rules on prohibited performance-enhancing substances under applicable policies. | World Anti-Doping Code; league rules
+## Estate Planning
+Last will | A person directs distribution of probate property upon death through a valid testamentary instrument. | State wills law
+Revocable living trust | A settlor transfers assets to a trust that can generally be altered during life to manage distribution and probate planning. | Uniform Trust Code
+Beneficiary designation | Assets such as life insurance or retirement accounts pass to named recipients by contract or plan terms outside ordinary probate. | State nonprobate transfer law
+Durable financial power of attorney | An agent's authority to handle property and finances survives the principal's later incapacity when statutory requirements are met. | Uniform Power of Attorney Act
+Advance health care directive | A person records treatment preferences or designates a health care decisionmaker for future incapacity. | State health-care directive laws
+Guardianship | A court appoints someone to make personal decisions for an individual whose decision-making ability meets statutory criteria. | State guardianship law
+Conservatorship | A court grants a fiduciary authority over a protected person's property or finances under applicable law. | State protective-proceedings law
+Federal estate tax | Transfer-tax liability may arise at death based on the taxable estate, deductions, and applicable exemption amounts. | 26 U.S.C. §§ 2001–2056
+Gift tax | Lifetime transfers for less than full consideration can fall under federal transfer-tax rules subject to exclusions and exemptions. | 26 U.S.C. §§ 2501–2503
+Portability election | A surviving spouse may benefit from a deceased spouse's unused estate-tax exclusion when statutory election requirements are met. | 26 U.S.C. § 2010(c)
+## Contracts
+Offer | One party communicates a manifestation of willingness to bargain so that assent would conclude the deal. | Restatement (Second) of Contracts § 24
+Acceptance | The offeree manifests assent in the manner invited by the offer while the offer remains available. | Restatement (Second) of Contracts § 50
+Consideration | Each side provides a bargained-for legal detriment or return promise rather than relying on a gratuitous promise alone. | Restatement (Second) of Contracts § 71
+Promissory estoppel | A promise reasonably inducing substantial reliance may be enforced to avoid injustice even absent ordinary consideration. | Restatement (Second) of Contracts § 90
+Statute of frauds | Certain agreements require a signed writing or recognized exception before enforcement. | Restatement (Second) of Contracts § 110; UCC § 2-201
+Parol evidence rule | Parties adopt a final written agreement and earlier inconsistent terms may not be used to contradict an integrated contract. | Restatement (Second) of Contracts §§ 209–216
+Material breach | One party's sufficiently serious failure to perform may excuse the other side's remaining performance obligations. | Restatement (Second) of Contracts § 241
+Anticipatory repudiation | Before performance is due a contracting party clearly indicates an intent not to perform a material contractual obligation. | Restatement (Second) of Contracts § 250
+Expectation damages | A remedy seeks to put the nonbreaching party in the economic position expected from full performance. | Restatement (Second) of Contracts § 347
+Mitigation of damages | An injured party cannot recover avoidable loss that reasonable post-breach efforts could have prevented, subject to limitations. | Restatement (Second) of Contracts § 350
+## Torts
+Duty of care | A negligence plaintiff must establish a legally recognized obligation to take reasonable precautions against the injury risk. | Restatement (Third) of Torts
+Breach | Conduct falls below the care a reasonably prudent person would exercise under the circumstances. | Restatement (Third) of Torts
+Actual causation | The injury would not have occurred but for the defendant's conduct, subject to alternative causation doctrines. | Restatement (Third) of Torts
+Scope of liability | A defendant's negligence is linked to harm within the risks that made the conduct negligent rather than every remote consequence. | Restatement (Third) of Torts
+Res ipsa loquitur | An accident's unusual character and the defendant's connection to it support an inference of negligence despite limited direct evidence. | Restatement (Second) of Torts § 328D
+Negligence per se | Violation of a qualifying safety statute can establish breach for protected persons and risks under the jurisdiction's rules. | State tort law
+Comparative fault | A factfinder allocates responsibility among responsible actors and may reduce recovery according to jurisdictional law. | State comparative-negligence law
+Strict products liability | A commercial product seller may be liable for injuries from a defective product without proof of ordinary negligence. | Restatement (Third) of Torts: Products Liability
+Defamation | A false statement of fact is communicated to another and harms reputation under applicable fault and damage rules. | Restatement (Second) of Torts; New York Times v. Sullivan
+Intentional infliction of emotional distress | Extreme and outrageous intentional or reckless conduct causes sufficiently severe emotional distress. | Restatement (Second) of Torts § 46
+## Civil Procedure
+Subject-matter jurisdiction | A federal court must have constitutional and statutory authority to hear the kind of controversy presented. | 28 U.S.C. §§ 1331–1332
+Personal jurisdiction | The forum court needs constitutionally adequate power over the defendant based on consent or sufficient contacts. | International Shoe v. Washington
+Venue | A case must be filed in a legally appropriate federal judicial district based on parties and events under statute. | 28 U.S.C. § 1391
+Service of process | A defendant receives formal notice of the lawsuit through a legally authorized delivery method. | Fed. R. Civ. P. 4
+Rule 12(b)(6) | A defendant argues the complaint does not allege a claim upon which relief can be granted. | Fed. R. Civ. P. 12(b)(6)
+Joinder of claims | A plaintiff combines multiple claims against an opposing party in a single federal action subject to jurisdiction and other limits. | Fed. R. Civ. P. 18
+Compulsory counterclaim | A defending party must ordinarily plead a claim arising from the same transaction or occurrence as an opposing claim, subject to exceptions. | Fed. R. Civ. P. 13(a)
+Summary judgment | Evidence reveals no genuine dispute of material fact and the moving party is entitled to judgment as a matter of law. | Fed. R. Civ. P. 56
+Claim preclusion | A valid final merits judgment bars later litigation of the same claim between the same parties or their privies, subject to governing rules. | Res judicata; Taylor v. Sturgell
+Issue preclusion | A previously actually litigated and essential issue may not be relitigated in later qualifying litigation. | Collateral estoppel; Parklane Hosiery v. Shore
+## Criminal Law
+Actus reus | Criminal liability generally requires a legally proscribed voluntary act or omission where a duty to act exists. | Model Penal Code § 2.01
+Purposely | An actor's conscious object is to engage in specified conduct or cause a prohibited result. | Model Penal Code § 2.02(2)(a)
+Knowingly | An actor is aware of the relevant nature of conduct or that a result is practically certain. | Model Penal Code § 2.02(2)(b)
+Recklessly | An actor consciously disregards a substantial and unjustifiable risk representing a gross deviation from acceptable conduct. | Model Penal Code § 2.02(2)(c)
+Negligently | An actor should be aware of a substantial unjustifiable risk but fails to perceive it, representing a gross deviation. | Model Penal Code § 2.02(2)(d)
+Causation | A result offense requires legally sufficient linkage between the prohibited conduct and ensuing harm. | Model Penal Code § 2.03
+Attempt | An actor with required purpose takes a substantial step strongly corroborative of intent to commit a crime. | Model Penal Code § 5.01
+Conspiracy | Parties agree to engage in criminal conduct with the required intent, with overt act rules varying by jurisdiction. | Model Penal Code § 5.03
+Accomplice liability | A participant purposely aids or encourages another's offense while meeting governing mens rea requirements. | Model Penal Code § 2.06
+Self-defense | Reasonable defensive force may be justified when necessary against an imminent unlawful threat within governing proportionality rules. | Model Penal Code § 3.04; state criminal law
+## Property
+Fee simple absolute | An owner holds the broadest inheritable present estate without an inherent future-interest limitation. | Common-law property estates
+Life estate | A person has present ownership measured by a life, with a future interest taking effect on termination. | Common-law property estates
+Remainder | A future interest in a transferee becomes possessory upon the natural expiration of a preceding estate. | Common-law future interests
+Reversion | A grantor retains a future interest following the natural end of a lesser estate created by the grantor. | Common-law future interests
+Easement appurtenant | A nonpossessory use right benefits a parcel of land and normally travels with ownership of that dominant estate. | Restatement (Third) of Property: Servitudes
+License | A personal permission to enter another's land generally does not itself create a transferable property interest. | Common-law property
+Adverse possession | Continuous, actual, open, notorious, exclusive, and hostile possession for the statutory period can establish title under state law. | State adverse-possession doctrine
+Recording acts | Priority between competing conveyances can depend on whether a purchaser had notice and recorded an instrument. | State recording statutes
+Nuisance | A land use substantially and unreasonably interferes with a neighbor's private use and enjoyment of property. | Common-law private nuisance
+Landlord duty of habitability | A residential lease is subject to implied minimum living-condition obligations under applicable law. | State landlord-tenant law
+## Constitutional Law I
+Judicial review | Federal courts may decline to enforce statutes inconsistent with the Constitution in properly presented cases. | Marbury v. Madison
+Supremacy Clause | Valid federal law prevails over conflicting state law within its constitutional sphere. | U.S. Const. art. VI
+Necessary and Proper Clause | Congress may enact suitable means for carrying out enumerated powers within constitutional limits. | U.S. Const. art. I, § 8; McCulloch v. Maryland
+Commerce Clause | Congress can regulate channels, instrumentalities, and qualifying activities substantially affecting interstate commerce within case-law limits. | U.S. Const. art. I, § 8; United States v. Lopez
+Spending Clause | Congress may spend for the general welfare and attach valid conditions to federal grants, subject to constraints. | U.S. Const. art. I, § 8; South Dakota v. Dole
+Anti-commandeering | The federal government generally cannot order state legislatures or executive officials to administer a federal regulatory program. | Printz v. United States; Murphy v. NCAA
+Dormant Commerce Clause | State regulations discriminating against interstate commerce face demanding judicial scrutiny absent valid authorization. | Granholm v. Heald
+Executive power | The President claims authority under Article II or statutory delegation, with limits shaped by separation-of-powers doctrine. | Youngstown Sheet & Tube v. Sawyer
+Appointments Clause | Selection of certain federal officers must follow constitutionally prescribed nomination and appointment processes. | U.S. Const. art. II, § 2
+Treaty power | The President negotiates treaties subject to the Senate's constitutionally specified advice and consent role. | U.S. Const. art. II, § 2
+## Legal Research Foundations
+Binding authority | A court follows controlling legal rules from higher courts and valid enactments in the applicable jurisdiction. | Stare decisis; legal sources
+Persuasive authority | A court may consider a noncontrolling jurisdiction's reasoning or scholarly analysis without being bound by it. | Legal research principles
+Case law | Judicial opinions develop and apply legal principles through adjudicated disputes. | Common-law legal research
+Statutory law | Legislatures enact written rules organized in codes and session laws. | Legislative legal sources
+Administrative regulation | An authorized executive agency issues rules implementing statutes subject to legal constraints. | Code of Federal Regulations
+Secondary source | A treatise, journal article, or legal encyclopedia analyzes law rather than itself creating binding rules. | Legal research principles
+Citator | A researcher checks whether later cases have criticized, limited, overruled, or otherwise treated a cited decision. | Legal citator practice
+Jurisdiction | A researcher identifies the relevant sovereign, court system, and geographic reach of law before relying on a source. | Legal research principles
+Effective date | A researcher checks when a statute or regulation began applying to the facts, including transitional provisions. | Legislative and regulatory research
+Research strategy | A researcher moves from issue identification to sources, updating, validation, and precise citation rather than relying on one search result. | Legal research methodology
+## MPRE Review
+Confidentiality | Ethics rules generally cover information relating to representation beyond the narrower evidentiary privilege. | ABA Model Rule 1.6
+Informed consent | A client agrees after counsel communicates adequate information about material risks and reasonably available alternatives. | ABA Model Rule 1.0(e)
+Concurrent conflict | A lawyer represents clients with directly adverse interests or a significant risk of materially limited duties. | ABA Model Rule 1.7
+Prospective-client duty | Even when no engagement forms, counsel must generally protect information learned from a qualifying prospective client. | ABA Model Rule 1.18
+Fee reasonableness | Legal fees and expenses must comply with applicable reasonableness and communication requirements. | ABA Model Rule 1.5
+Client funds segregation | An attorney holds client property separate from the lawyer's own property with appropriate records and account safeguards. | ABA Model Rule 1.15
+Truthfulness in statements | Counsel may not knowingly make material false statements of fact or law to third persons in representation. | ABA Model Rule 4.1
+Reporting misconduct | A lawyer with qualifying knowledge of another lawyer's serious rule violation must report it subject to protected-information exceptions. | ABA Model Rule 8.3
+Supervisory responsibility | Law firm leaders must make reasonable efforts to ensure the firm has measures assuring lawyers conform to professional duties. | ABA Model Rule 5.1
+Advertising and solicitation | Lawyer public communications and direct solicitation must meet truthfulness and applicable limitations. | ABA Model Rules 7.1–7.3
