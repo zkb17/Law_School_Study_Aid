@@ -8,7 +8,7 @@ A GitHub Pages–ready, local-first law school **study** dashboard. It provides 
 
 - **70** selectable law school subjects, based on common upper-level topics and Nebraska Law's broad elective curriculum. Not all are required in 2L.
 - **804** built-in multiple-choice questions: the original 104 plus **700 newly authored, doctrine-focused questions (10 supplemental per subject)**. Each has four legally real choices and per-choice feedback.
-- **128** built-in recall/flashcards, including rules, definitions, and elements.
+- **828** built-in recall/flashcards: the original 128 plus **700 new cards (10 for every subject)**. The 700 additions split evenly between rule-recall and doctrine-identification prompts, each with an authority reference.
 - **12** multi-select issue-spotting hypotheticals.
 - Subject and difficulty filters, timed sessions, optional weak-topic weighting, immediate grading.
 - Spaced repetition ratings (Again / Hard / Good / Easy), typed rule recall, topic-level analytics.
@@ -20,6 +20,11 @@ A GitHub Pages–ready, local-first law school **study** dashboard. It provides 
 
 **Expanded study content files:**
 - `expanded-bank.js` loads 700 questions directly into the app (no setup/API necessary).
+- `expanded-flashcards.js` loads another 700 flashcards directly into the same spaced-repetition and typed-recall engines.
+- `expanded-flashcards.json` and `expanded-flashcards.csv` contain the 700 additions; `complete-flashcard-bank.json` and `.csv` include all 828 original and new cards.
+- `FLASHCARD_COVERAGE.md` has the exact per-subject totals.
+- This release also removes the fivefold repeated phrase in the home-page introduction and displays the size of the selected flashcard deck and complete library.
+- When an older saved review queue is detected, only that queue resets; old self-assessment ratings, practice results, and uploaded content remain saved.
 - `expanded-question-bank.json` contains all 700 new records in portable structured form.
 - `expanded-question-bank.csv` makes the entire new bank reviewable in spreadsheet software.
 - `concepts.txt` holds 700 authored topic/problem/citation seeds; `build_bank.py` rebuilds the JS/JSON/CSV consistently.
@@ -36,7 +41,7 @@ The core study app and TXT/Markdown/pasted-note imports need no network. To read
 ## Host with GitHub Pages — public frontend
 
 1. Create a new GitHub repository (e.g., `law-study-hub`).
-2. Upload all of the **root-level site files** (`index.html`, `styles.css`, `app.js`, `data.js`, `cards.js`, `expanded-bank.js`, `favicon.svg`, and this README). Uploading the optional worker folder is fine; GitHub Pages does not execute it.
+2. Upload all of the **root-level site files** (`index.html`, `styles.css`, `app.js`, `data.js`, `cards.js`, `expanded-flashcards.js`, `expanded-bank.js`, `favicon.svg`, and this README). Uploading the optional worker folder is fine; GitHub Pages does not execute it.
 3. In the GitHub repository, open **Settings → Pages**. Under **Build and deployment → Source**, choose **Deploy from a branch**. Select `main` and `/(root)`, then save.
 4. Once published, open `https://YOUR-USERNAME.github.io/law-study-hub/` (replace username and repo name as appropriate).
 5. Save this URL as a bookmark. Data is stored **on that browser/device**. The same URL on a different device does **not** share progress.
@@ -63,7 +68,7 @@ The app uses **IndexedDB** if available and falls back to localStorage for light
 ## Study methods
 
 - **Multiple choice:** four options, immediate result, complete explanation per option, timed practice, prioritized weak concepts.
-- **Flashcards:** front/back retrieval, self-rated interval scheduling. The simple scheduling implementation is inspired by spaced repetition, not a certified SM-2 implementation.
+- **Flashcards:** 828 built-in cards, topic and course filters, front/back retrieval, self-rated interval scheduling. The simple scheduling implementation is inspired by spaced repetition, not a certified SM-2 implementation.
 - **Rule recall:** answer in free text, reveal verified reference phrasing, and self-evaluate instead of trusting weak automatic semantic grading.
 - **Issue spotting:** multi-select common doctrines from a hypothetical and see missing or irrelevant issues.
 - **My Materials:** heuristic extraction generates review cards with reference to the source text line/excerpt; optional backend adds document-grounded MCQs and cards.
@@ -81,9 +86,20 @@ The app uses **IndexedDB** if available and falls back to localStorage for light
 | `expanded-question-bank.csv` | Spreadsheet review of question text, answers, feedback and references |
 | `QUESTION_BANK_COVERAGE.md` | Course-by-course question counts and quality-method notes |
 | `concepts.txt` / `build_bank.py` | Editable authored seeds and reproducible generation script |
-| `cards.js` | Flashcards and issue-spotting problems |
+| `cards.js` | Original 128 flashcards and issue-spotting problems |
+| `expanded-flashcards.js` | 700 new flashcards loaded into the app |
+| `expanded-flashcards.json` / `.csv` | Downloadable 700-card expansion |
+| `complete-flashcard-bank.json` / `.csv` | Combined 828-card export |
+| `FLASHCARD_COVERAGE.md` | Card counts for every law subject |
+| `build_flashcards.py` | Reproducible card builder based on authored concept seeds |
 | `favicon.svg` | App icon |
 | `optional-ai-worker/` | Optional Cloudflare Worker for AI generation |
+
+## Flashcard provenance and quality checks
+
+The new 700 cards use the 700 previously authored law-concept seeds as their substantive base, so they test the same core doctrines as the existing MCQ expansion in a different way: **350 name-to-rule recall cards and 350 description-to-doctrine recognition cards**. They are not 700 separate newly researched doctrines. The new card IDs (`ec-01-01` through `ec-70-10`) are stable and separate from the original IDs (`bc-*`).
+
+Validation includes 70/70 subjects represented, exactly 10 new cards for each subject, 828 distinct IDs, unique front text within each subject, and an authority reference on every new card. Legal statements are educational summaries and have **not** undergone item-by-item faculty or lawyer review. Students should check the assigned material and current controlling jurisdiction before memorizing a disputed or changing rule.
 
 ## Next improvements
 

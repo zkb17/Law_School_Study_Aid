@@ -1,0 +1,422 @@
+[
+  {
+    "course": "Administrative Law",
+    "original": 5,
+    "additional": 10,
+    "total": 15
+  },
+  {
+    "course": "Evidence",
+    "original": 8,
+    "additional": 10,
+    "total": 18
+  },
+  {
+    "course": "Business Associations",
+    "original": 6,
+    "additional": 10,
+    "total": 16
+  },
+  {
+    "course": "Legal Profession",
+    "original": 6,
+    "additional": 10,
+    "total": 16
+  },
+  {
+    "course": "Criminal Procedure",
+    "original": 6,
+    "additional": 10,
+    "total": 16
+  },
+  {
+    "course": "Constitutional Law II",
+    "original": 5,
+    "additional": 10,
+    "total": 15
+  },
+  {
+    "course": "Federal Courts",
+    "original": 4,
+    "additional": 10,
+    "total": 14
+  },
+  {
+    "course": "Remedies",
+    "original": 3,
+    "additional": 10,
+    "total": 13
+  },
+  {
+    "course": "Wills & Trusts",
+    "original": 4,
+    "additional": 10,
+    "total": 14
+  },
+  {
+    "course": "Family Law",
+    "original": 3,
+    "additional": 10,
+    "total": 13
+  },
+  {
+    "course": "Individual Income Tax",
+    "original": 4,
+    "additional": 10,
+    "total": 14
+  },
+  {
+    "course": "Secured Transactions",
+    "original": 4,
+    "additional": 10,
+    "total": 14
+  },
+  {
+    "course": "Bankruptcy",
+    "original": 3,
+    "additional": 10,
+    "total": 13
+  },
+  {
+    "course": "Conflict of Laws",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "First Amendment",
+    "original": 3,
+    "additional": 10,
+    "total": 13
+  },
+  {
+    "course": "Civil Rights Litigation",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "Employment Discrimination",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "Election Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Prison Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Native American Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Constitutional History",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "State & Local Government",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Statutory Interpretation",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "Equality Before the Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Securities Regulation",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Corporate Finance",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Mergers & Acquisitions",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Business Planning",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Business Taxation",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Payment Systems",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Banking & Fintech",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Antitrust Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Insurance Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Nonprofit Organizations",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Real Estate Transactions",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Pretrial Litigation",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Trial Advocacy",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Appellate Advocacy",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Advanced Legal Research",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Negotiation",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "Mediation",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Arbitration",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Client Counseling",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Legal Citation & Bluebook",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Alternative Dispute Resolution",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Environmental Law",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "Agricultural Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Natural Resources & Water Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Immigration Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Employment & Labor Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Health Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Mental Health Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Intellectual Property",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Patent Law",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "Copyright Law",
+    "original": 2,
+    "additional": 10,
+    "total": 12
+  },
+  {
+    "course": "Privacy & Cyberlaw",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "International Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "International Human Rights",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Space Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "National Security Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Sports Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Estate Planning",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Contracts",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Torts",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Civil Procedure",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Criminal Law",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Property",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Constitutional Law I",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "Legal Research Foundations",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  },
+  {
+    "course": "MPRE Review",
+    "original": 1,
+    "additional": 10,
+    "total": 11
+  }
+]
